@@ -1,0 +1,8 @@
+<p>WhatsApp terbaru nantinya selain mendukung pesan aman yang ter-enkripsi juga akan membawa fitur menarik lainya, yaitu bisa kirim text style, contoh:</p>
+<p>~strike~ = <del>strike<br>
+</del>*tebal* = <strong>tebal</strong><br>
+_miring_ = <em>miring</em></p>
+<p>Hasilnya seperti ini nanti</p>
+<div id="attachment_2142" style="width: 1090px" class="wp-caption aligncenter thumbnail"><a href="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39.png" rel="attachment wp-att-2142" class="fancybox image"><img class="size-full wp-image-2142" src="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39.png" alt="new whatsapp style bold italic strick text" srcset="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39-768x1365.png 768w, https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39-576x1024.png 576w, https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39-900x1600.png 900w, https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39.png 1080w" sizes="(max-width: 1080px) 100vw, 1080px" width="1080" height="1920"></a><p class="wp-caption-text">new whatsapp style bold italic strick text</p></div>
+<p>Fitur ini masih beta alias uji coba, Anda bisa menjajal fitur baru ini dengan cara mengunduh whatsapp versi terakhir dan anda sudah terdaftar menjadi beta test, belum mendaftar? anda bisa daftar <a href="https://play.google.com/apps/testing/com.whatsapp/join?hl=id">di sini.</a></p>
+<p>Untuk fitur enkiripsi sudah bisa dinikmati ;)</p>

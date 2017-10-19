@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2011-08-31 17:18:35 +0700
+title: Selamat Hari Raya Idul Fitri 1432H
+categories: writing
+tags: Islam Event
+---
+<p><pertama tama saya ingin mengucapkan selamat kepada kaum muslim yang sudah menunaikan ibadah puasa selama 30 hari penuh, kini tiba saat hari kemenangan, hari dimana kita kembali ke fitroh lagi, yah, Idul Fitri, kedua saya ingin mengucapkan Selamat Hari Raya Idul Fitri 1432H, memang benar iman membuat segala sesuatu mungkin, harapan membuat segala sesuatu bekerja, dan cinta membuat segalanya indah, untukmu yang dulu pernah saya sakiti, untukmu yang dulu<br>
+<span id="more-893"></span> saya ajak masuk duniaku, untukmu yang pernah mengisi hari hariku, andai tangan ini tak bisa berjabat, andai muka ini tidak bisa bertatap, tapi itu tidak mengurangi makna terdalam, maafkan saya semua, jika saya pernah punya salah kepada kalian semua, baik yang saya sengaja atau tidak, saya mohon maaf kalau ada posting-posting blog saya mengakibatkan dampak buruk kepada pembaca, saya mohon maaf bila ada kata yang tidak berkenan dihati kalian semua, ejekan, sindiran bahkan tidak ada pujian, yah maafkan saya temans, saya hanya manusia biasa, yang tidak luput dari dosa, semoga di hari yang fitrah ini kita bisa berlapang dada membuka mata hati untuk saling memaafkan, dan berjalan lagi menjadi manusia yang lebih baik, bila ada kesempatan, amien,, saya eggoez mengucapkan selamat hari raya idul fitri mohon maaf lahir batin <img src="http://eggoez.com/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"><
