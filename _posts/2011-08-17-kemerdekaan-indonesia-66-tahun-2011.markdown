@@ -5,7 +5,7 @@ title: Kemerdekaan Indonesia 66 Tahun 2011
 categories: news
 tags: Event Indonesia
 ---
-<strong>A</strong>staga, sekarang tanggal 17 Agustus, saya tidak ingat, sebagai bangsa negara indonesia tidak ingat ini bagaimana yah <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/2639.png" alt=":(" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> aduh maklum tidak sekolah dan jarang buka tanggalan, soalnya bukan cewe yang sering neliti tanggalan, barusan membuka Google kok logo nya…</p>
+<p><strong>A</strong>staga, sekarang tanggal 17 Agustus, saya tidak ingat, sebagai bangsa negara indonesia tidak ingat ini bagaimana yah <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/2639.png" alt=":(" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> aduh maklum tidak sekolah dan jarang buka tanggalan, soalnya bukan cewe yang sering neliti tanggalan, barusan membuka Google kok logo nya…</p>
 <p>ya ampyun google saja tahu ;( tapi tidak apalah,, masih ngucapin toh banyak yang gak peduli, meskipun tidak pasang bendera merdeka di depan rumah saya ikut serta memasang bendera di blog saja lah :D Yaps setelah di intip intip tema untuk hari kemerdekaan sekarang apa yah, kalau di teropong hari ini tepat juga hari apa ya.. :?<br>
 <span id="more-656"></span><br>
 Oh iya…</p>
