@@ -1,1 +1,3 @@
-git add * && git commit -a -m "sync" && git push --all
+git add *
+git commit -a -m "sync compaq"
+git push --all
