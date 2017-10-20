@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-11 17:18:35 +0700
+date: 2011-07-19 17:18:35 +0700
 title: Wanita Ini
 categories: sosok
 tags: Sikap
