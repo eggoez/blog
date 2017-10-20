@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-17 17:18:35 +0700
+date: 2011-07-18 17:18:35 +0700
 title: Kenapa harus bersedih
 categories: coretan
 tags: penyemangat
