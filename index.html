@@ -6,9 +6,9 @@ layout: default
   <h1 class="page-heading">Posts</h1>
   <ol class="post-list">
     {% for post in site.posts %}
-        <ul>
-          <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
-        </ul>
+        
+          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
+        
     {% endfor %}
   </ol>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
