@@ -4,11 +4,11 @@ layout: default
 
 <div class="home">
   <h1 class="page-heading">Posts</h1>
-  <ol class="post-list">
+  <ol class="post-lists">
     {% for post in site.posts %}
-        
-          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
-        
+        <ul>
+          <li><a class="post-links" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
+        </ul>
     {% endfor %}
   </ol>
   <p class="rss-subscribe alignright">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
