@@ -45,4 +45,4 @@ tags: Love Sexs
 <li>Kebanyakan lelaki cukup lemah dgn air mata perempuan. Mereka lebih tewas sekiranya air mata itu mengalir dari perempuan yg dikasihi. Sebab itu dikatakan air mata senjata perempuan.</li>
 </ol>
 <p>Lelaki bukanlah sempurna 100%, walau bagaimanapun rupanya atau pandangan luarannya. Jadi, perempuan janganlah mengharapkan semua yang hebat dari lelaki! Mereka juga normal dan mempunyai kelemahan.</p>
-<p><em>hanya diambil dari pengalaman</em> <img src="http://eggoez.com/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"></p>
+<p><em>hanya diambil dari pengalaman</em> <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"></p>
