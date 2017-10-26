@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-06-08 17:18:35 +0700
-title: Cara membuat error 404 page not not found di blogge
+title: Cara membuat error 404 page not not found di blogger
 img: 
 author: eggoez
 categories: robots
