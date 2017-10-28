@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-04-0 17:18:35 +0700
+date: 2016-04-07 17:18:35 +0700
 title: Begini Cara Membuat Style Huruf Tebal Miring Coret Di Whatsapp
 img: https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39.png
 author: eggoez
