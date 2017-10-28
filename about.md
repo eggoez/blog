@@ -3,9 +3,42 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-It nice to see you again<br />
-I'm have answer if you may comeback to me
-
-This is just a part of
-{% include icon-github.html username="eggoez" %}
+<p><strong><a href="https://eggoez.bitbucket.io/wp-content/uploads/2014/01/cropped-logo-2-198bfiu.png" class="fancybox image"><img class="alignnone" src="https://eggoez.bitbucket.io/wp-content/themes/eggoez/logo/logo-20.png" alt="" width="738" height="86"></a></strong></p>
+<p><strong>S</strong>ebuah deskripsi singkat untuk menceritakan bagaimana eggoez datang, kurangnya imajinasi dan keinginan untuk memulai cepat dan menyebabkan awalnya ke kegelapan total .. Nama apa yang akan Anda berikan untuk karakter Ia? Pertanyaan yang bagus .. “g0eZ” .. Waspadalah terhadap “g0eZ” :o .. karena pikiran pertama adalah: Nah, Bersepeda .. hahaha konyol :D , terlalu pendek: Kalau begitu, “eggoez” .. Tidak, tidak, hanya tambahan gabungan antara egGo dan g0eZ.. Yah eggoez lahir ..</p>
+<h5></h5>
+<h5>g0eZ, Siapakah Anda?</h5>
+<p>– g0eZ adalah orang bodoh.<br>
+– g0eZ sangat mencintai komputer.<br>
+– g0eZ juga mencintai web.<br>
+– g0eZ mencintai desain grafis untuk web.<br>
+– g0eZ percaya pada komputer.</p>
+<h5>g0eZ, apa yang dapat Anda lakukan?</h5>
+<p>– Pemrograman lumayan baik.<br>
+– Pemrograman PhP cukup.<br>
+– Dia tahu CSS dan sifat-sifatnya, meskipun Dia selalu menemukan yang baru.<br>
+– Dia tahu html.<br>
+– Dia juga mengerti dunia 4 x 4.<br>
+– Setelah Tak menikmati melakukan trik di web.<br>
+– Memiliki pengetahuan yang baik sebagai penggunaan alat webmaster.<br>
+– Selalu mencari cari ide gila, dan mencari sesuatu yang belum pernah terfikirkan.</p>
+<h5>g0eZ, apa lagu favorit Anda?</h5>
+<p>Lagu favorit tetap, masih cinta dengan semua karya opick, shelly, project pop, dan semua lagu islami, tapi tekadang tiada salahnya berbicara tentang cinta. So saya memutuskan untuk juga suka dengan lagu lagu cinta, but yang tidak begitu sedih alunan musiknya, seperti halnya peterpan, yang meskipun lagunya sedih tapi tetap di iringi musik yang ngebits, hmmmmm boleh juga sih lagu yang sedih, tapi harus anda tahu, g0eZ sangat sulit untuk menangis meskipun di iringi lagu semello mungkin <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"></p>
+<h5>g0eZ, kutipan favorit Anda?</h5>
+<p>kutipan favorit sih sangat bayak, dan sering kali saya mengambil dari sebuah bait bait lagu, karena dalam bait bait sebuah lagu ada susunan kata yang terbentuk menjadi kalimat yang benar benar mengandung banyak arti, untuk saat ini, mungkin hanyalah</p>
+<p>Komputer itu tidak berguna, mereka hanya bisa memberikan jawaban.<br>
+Satu hal lagi.<br>
+g0eZ&nbsp; tidak takut dengan komputer.<br>
+Melakukan kesalahan adalah manusiawi, tapi benar-benar semua yang diperlukan untuk mengacaukan komputer.<br>
+Tak Kan Selamanya :D</p>
+<h5>g0eZ, apa pengalaman gila Anda?</h5>
+<p>– Punya fikiran dan pernah test untuk menghubungkan data mySQL pada hosting yang berbeda server.<br>
+– Pernah mencoba install FlatPress di xtGem.<br>
+– Mengajak 3 Cewek anak orang untuk nikah?<br>
+– Membuat sebuah website dari notepad ++<br>
+– Menjajal semua hosting gratis yang pernah dikenal.</p>
+<h5>g0eZ, ceritakan sedikit tetang Anda?</h5>
+<p>– Orang yang rasa ingin tahunya besar.<br>
+– <a href="https://eggoez.bitbucket.io/eggoez">Lebih banyak lagi</a></p>
+<h5>Anda dapat menanyakan sesuatu ?</h5>
+<p>Cobalah untuk menghubunginya. Mungkin akan merespon<br>
+<a title="Contact" href="http://eggo.ez.lv" target="_blank">Kontak</a></p>
