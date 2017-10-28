@@ -5,13 +5,11 @@ layout: default
 <div class="home">
   <h1 class="page-heading">Posts</h1>
   <hr />
-  <ol class="post-lists">
+  <div class="post-lists">
     {% for post in site.posts %}
-        <ul>
           <li><a class="post-links" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
-        </ul>
     {% endfor %}
-  </ol>
+  </div>
   <p class="rss-subscribe alignright">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
