@@ -1,0 +1,45 @@
+<head>
+	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="theme-color" content="#272727">
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="g0eZ egGo Blog" />
+	<meta name="twitter:description" content="g0eZ egGo Blog&#039;s by eggoez =)" />
+	<meta name="twitter:image" content="/asset/imgs/ge-bullet-transp.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="eggoez,goez,g0eZ,eggo,eggoez.tar.gz," />
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta property="og:title" content="g0eZ egGo Blog" />
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+	<meta property="og:image" content="/asset/imgs/ge-bullet-transp.png" />
+	<meta property="og:site_name" content="eggoez" />
+	<meta property="fb:admins" content="eggoez" />
+	<meta property="og:description" content="g0eZ egGo Blog&#039;s by eggoez =)" />
+	<script async src="https://static.addtoany.com/menu/page.js"></script>
+	<link rel="apple-touch-icon" href="https://eggoez.github.com/asset/imgs/ge-bullet-transp.png" />
+	<link rel="author" href="https://plus.google.com/+eggoez" />
+	<link rel="publisher" href="https://plus.google.com/+eggoez" />
+	<link rel="apple-touch-icon" href="/asset/imgs/ge-bullet-transp.png" />
+	<link rel="stylesheet" href="/asset/bootstrap/dist/css/bootstrap.min.css"> 
+	<link rel="stylesheet" href="/asset/css/kostum.css">
+	<link rel="stylesheet" href="/asset/css/nav-sub.css">
+	<link rel="stylesheet" href="/asset/css/font-awesome.min.css">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+	<style>.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{color:#ffffff;background-color:#006687;}.panel-title{cursor:pointer}};
+	.epost-meta{font-size:13px}.post-meta span{margin-right:10px}.post-title{font-size:28px;color:#444}.post-title a{color:#444}.post-title a:hover{color:#666}</style>
+  	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		
+		<!--
+			halaman ini walaupun jelek tapi buat sendiri, dan di edit edit sendiri
+			jadi semoga tidak di copas source kode kode nya, dan yang terpenting css nya..
+			halaman ini dibuat dengan bantuan bootstrap, jadi buat loe yang mau buat kek gini belajar sendiri
+			contoh contoh pembuatanya dapat di temukan di http://getbootstrap.com/components/
+			terimakasih untuk tidak copas punya ane.... yang masih bandel dosa tanggung ndiri :P
+		-->
+	</head>
+	<!-- lets goez -->
