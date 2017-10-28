@@ -7,7 +7,7 @@ layout: default
   <hr />
   <div class="post-lists">
     {% for post in site.posts %}
-          <li><a class="post-links" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)--></li>
+          <i class="fa fa-code" aria-hidden="true"></i> <a class="post-links" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)-->
     {% endfor %}
   </div>
   <p class="rss-subscribe alignright">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
