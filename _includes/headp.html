@@ -4,18 +4,21 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="theme-color" content="#272727">
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:title" content="g0eZ egGo Blog" />
-	<meta name="twitter:description" content="g0eZ egGo Blog&#039;s by eggoez =)" />
-	<meta name="twitter:image" content="/asset/imgs/ge-bullet-transp.png" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+	<meta name="twitter:image" content="{{ page.img }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="keywords" content="eggoez,goez,g0eZ,eggo,eggoez.tar.gz," />
+	<meta name="keywords" content="{{ page.categories }}{{ page.tags }}" />
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:title" content="g0eZ egGo Blog" />
+	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-	<meta property="og:image" content="/asset/imgs/ge-bullet-transp.png" />
+	<meta property="og:image" content="{{ page.img }}" />
 	<meta property="og:site_name" content="eggoez" />
-	<meta property="fb:admins" content="eggoez" />
-	<meta property="og:description" content="g0eZ egGo Blog&#039;s by eggoez =)" />
+	<meta property="og:type" content="article" />
+	<meta property="fb:admins" content="{{ page.author }}" />
+	<meta property="article:published_time" content="{{ page.date }}" />
+	<meta property="article:modified_time" content="{{ page.date }}" />
+	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	<script async src="https://static.addtoany.com/menu/page.js"></script>
 	<link rel="apple-touch-icon" href="https://eggoez.github.com/asset/imgs/ge-bullet-transp.png" />
 	<link rel="author" href="https://plus.google.com/+eggoez" />
