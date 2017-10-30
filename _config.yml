@@ -11,7 +11,7 @@ owner: eggoez
 email: eggoez@teknik.io
 description: > # this means to ignore newlines until "baseurl:"
   Everything will be changed!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://goez.my.id" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
 twitter_username: eggoez
