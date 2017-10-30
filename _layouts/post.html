@@ -8,6 +8,7 @@
     <div class="page-content">
       <div class="wrapper">
  <!-- not default -->
+ <div id="primary" class="content-area col-sm-12 col-md-8 pull-left">
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	<div class="entry-meta">
@@ -20,6 +21,11 @@
 <footer class="entry-meta">
 <i class="fa fa-folder-open-o"></i> <a href="{{ site.url }}{{site.baseurl }}/arsip" rel="category">{{ page.categories }}</a>. <i class="fa fa-tags"></i> {% if page.tags %}{% for tag in page.tags %} <a href="{{ site.url }}{{site.baseurl }}/tags"><span class="">{{tag}}</span></a> {% endfor %}{% else %} None {% endif %}. <i class="fa fa-link"></i> <a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark">Permalink</a>.
 </footer>
+
+</div>
+<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+<h1>Widget</h1>
+</div>
 <hr />
 	<h3 class="bagik">Bagikan ke yang lain</h3>
 	<!-- AddToAny BEGIN -->
