@@ -1,15 +1,55 @@
----
-layout: default
----
-<article class="post">
-
+<!DOCTYPE html>
+<html lang="id-ID">
+  {% include headp.html %}
+  <body class="nduwur">
+	{% include navbar.html %}
+    {% include header.html %}
+	<header class="entry-header page-header" style="margin-top: 25px;">
+    {% include bc.html %}
+    <div class="page-content">
+      <div class="wrapper">
+ <!-- not default -->
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+	<div class="entry-meta">
+<span class="posted-on faa-parent animated-hover"><i class="fa fa-calendar faa-wrench"></i> <a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark"><time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></a></span><span class="byline faa-parent animated-hover"> <i class="fa fa-user faa-wrench"></i> <span class="author vcard"  itemprop="author" itemscope itemtype="http://schema.org/Person">{% if page.author %} <a class="url fn n" href=""> {{ page.author }} </a>{% endif %}</span></span> 
+<span class="comments-link"><i class="fa fa-comment-o faa-shake animated"></i><a href="#disqus_thread">Komentar</a></span>
 	<hr />
   </header>
-
-  <div class="post-content">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
 </article>
+<hr />
+	<h3 class="bagik">Bagikan ke yang lain</h3>
+	<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_button_twitter faa-vertical animated-hover"></a>
+<a class="a2a_button_facebook faa-vertical animated-hover"></a>
+<a class="a2a_button_google_plus faa-vertical animated-hover"></a>
+<a class="a2a_button_pinterest faa-vertical animated-hover"></a>
+<a class="a2a_button_tumblr faa-vertical animated-hover"></a>
+<a class="a2a_button_linkedin faa-vertical animated-hover"></a>
+<a class="a2a_button_reddit faa-vertical animated-hover"></a>
+<a class="a2a_button_email faa-vertical animated-hover"></a>
+<a class="a2a_button_kakao faa-vertical animated-hover"></a>
+<a class="a2a_button_sms faa-vertical animated-hover"></a>
+<a class="a2a_button_whatsapp faa-vertical animated-hover"></a>
+<a class="a2a_button_line faa-vertical animated-hover"></a>
+<a class="a2a_button_print faa-vertical animated-hover"></a>
+</div>
+<!-- AddToAny END -->
+<hr />
+{% include komen.html %}
+<br />
+<br />
+<!-- not default -->
+  </div>
+    </div>
+
+    {% include footer.html %}
+    {% include akhir.html %}
+
+  </body>
+</html>
