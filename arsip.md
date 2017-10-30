@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arsip
+permalink: /arsip/
 ---
     <ul>
       {% for post in site.posts %}

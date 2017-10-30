@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Tags
-description: A page with tag cloud and display of articles tag wice
-theme: red
+permalink: /tags/
 ---
     <div class="row">
         <div class="col-md-2">
