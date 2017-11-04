@@ -5,11 +5,13 @@ layout: default
 <div class="home">
   <h1 class="page-heading">Blog's <span class="pull-right rss-subscribe alignright"><a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="via RSS"><i class="fa fa-rss" aria-hidden="true"></i></a></span></h1>
   <hr />
-  <div class="post-lists">
+  <ul class="post-list w3-ul">
     {% for post in site.posts %}
-          <i class="fa fa-code" aria-hidden="true"></i> <a class="post-links" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><!-- (<i class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</i>)-->
+      <li>
+        <span class="fa fa-angle-right text-muted"> {{ post.date | date: "%b %-d, %Y" }} <i class="text-warning fa fa-angle-double-right" aria-hidden="true"></i> <a class="post-link text-primary" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+      </li>
     {% endfor %}
-  </div>
+  </ul>
 
 </div>
 <br />
