@@ -8,7 +8,7 @@ layout: default
   <ul class="post-list w3-ul">
     {% for post in site.posts %}
       <li>
-        <span class="fa fa-angle-right text-muted"> {{ post.date | date: "%b %-d, %Y" }} <i class="text-warning fa fa-angle-double-right" aria-hidden="true"></i> <a class="post-link text-primary" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        <span class="text-danger fa fa-angle-double-right" aria-hidden="true"></i> <a class="post-link text-primary" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small class="fa fa-angle-right text-muted"> {{ post.date | date: "%b %-d, %Y" }} </small></span>
       </li>
     {% endfor %}
   </ul>
