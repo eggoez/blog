@@ -5,15 +5,10 @@ layout: default
 <div class="home">
   <h1 class="page-heading">Blog's <span class="pull-right rss-subscribe alignright"><a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="via RSS"><i class="fa fa-rss" aria-hidden="true"></i></a></span></h1>
   <hr />
-  <!-- notif -->
-  <div class="card border-warning">
-  <div class="card-body">
-    <blockquote class="card-blockquote">
-      <p>Ini adalah alamar url dari blog saya yang baru</p>
-      <footer>Blog ini adalah backupan dari blog <cite title="Source Title">eggoez.com</cite></footer>
-    </blockquote>
-  </div>
-</div>
+<!-- notif -->
+					<div class="alert alert-dismissable alert-info"><button type="button" class="close" data-dismiss="alert">x</button>
+   						 <h5>Ini adalah alamat URL blog baru saya yang dulunya <strong>eggoez.com</strong> semua konten saya coba pindah dari wordpress ke jekyll. beberapaa halaman mungkin belum benar. </h5>
+   					</div>
 
   <ul class="post-list w3-ul">
     {% for post in site.posts %}
