@@ -12,7 +12,7 @@ tags: JavaScript code
 Some browsers try to mitigate this problem by storing theimages in the local cache so that subsequent calls to the image are satisfiedimmediately…but there’s still a delay the very first time the image isneeded. Preloading is a technique where the image is downloaded to the cachebefore it’s needed. That way when the image is really needed it can beretrieved from the cache and displayed immediately.</p>
 <h1>The Image() object</h1>
 <p>The simplest way to preload an image is to instantiate a newImage() object in JavaScript and pass it the URL of the image you wantpreloaded. Say we have an image called heavyimagefile.jpg, which we want todisplay when the user mouses over an already-displayed image. In order topreload this image for faster response time, we simply create a new Image()object, called <em>heavyImage</em>, and loadit simultaneously to the page with the onLoad() event handler:</p>
-{% highlight html linenos %}
+{% highlight html %}
 <html>
 <head>
 <script language = "JavaScript">
@@ -32,7 +32,7 @@ heavyImage.src = "heavyimagefile.jpg";
 <p>Note that the image tag does not itself handle onMouseOver()and onMouseOut() events, which is why the &lt;img&gt; tag in the example abovehas been enclosed in an &lt;a&gt; tag, which does include support for thoseevent types.</p>
 <h1>Loading multiple images with arrays</h1>
 <p>In practice, you will probably need to preload more thanjust one image; for example, in a menu bar containing multiple image rollovers,or if you’re trying to create a smooth animation effect. This is not difficult;all you need to do is make use of JavaScript’s arrays, as in the example below:</p>
-{% highlight html linenos %}
+{% highlight html %}
 <script language="JavaScript">
 
 function preloader()
@@ -64,7 +64,7 @@ function preloader()
 <p>In the above example, you define a variable i and an Image() object cleverly named imageObj. You then define a new arraycalled images[], where each arrayelement stores the source of the image to be preloaded. Finally, you create afor() loop to cycle through the array and assign each one of them to theImage() object, thus preloading it into the cache.<br>
 The onLoad() event handler</p>
 <p>Like many other objects in JavaScript, the Image() objectalso comes with some event handlers. The most useful of these is undoubtedlythe onLoad() handler, which is invoked when the image has completed loading.This handler can be hooked up with a custom function to perform specific tasksafter the image has completed loading. The following example illustrates thisby displaying a “please wait” screen while the image loads, and thensending the browser to a new URL once it’s finished loading.</p>
-{% highlight html linenos %}
+{% highlight html %}
 <html>
 <head>
 <script language="JavaScript">
