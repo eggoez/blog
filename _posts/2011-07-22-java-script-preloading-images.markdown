@@ -2,8 +2,8 @@
 layout: post
 date: 2011-07-22 17:18:35 +0700
 title: Java Script Preloading Images
-categories: asal
-tags: JavaScript code
+categories: code JavaScript
+tags: JavaScript
 ---
 <p>Lots of high-res images can really spruce up a Web site. Butthey can also slow it down—images are files, files use bandwidth, and bandwidthis directly related to wait times. It’s time you get yourself an education onhow to speed things up with a little trick called image preloading.</p>
 <h1>Image preloading</h1>
@@ -11,11 +11,11 @@ tags: JavaScript code
 <span id="more-444"></span><br>
 Some browsers try to mitigate this problem by storing theimages in the local cache so that subsequent calls to the image are satisfiedimmediately…but there’s still a delay the very first time the image isneeded. Preloading is a technique where the image is downloaded to the cachebefore it’s needed. That way when the image is really needed it can beretrieved from the cache and displayed immediately.</p>
 <h1>The Image() object</h1>
-<p>The simplest way to preload an image is to instantiate a newImage() object in JavaScript and pass it the URL of the image you wantpreloaded. Say we have an image called heavyimagefile.jpg, which we want todisplay when the user mouses over an already-displayed image. In order topreload this image for faster response time, we simply create a new Image()object, called <em>heavyImage</em>, and loadit simultaneously to the page with the onLoad() event handler:</p>
+<p>The simplest way to preload an image is to instantiate a newImage() object in JavaScript and pass it the URL of the image you wantpreloaded. Say we have an image called heavyimagefile.jpg, which we want todisplay when the user mouses over an already-displayed image. In order topreload this image for faster response time, we simply create a new Image()object, called <em>heavyImage</em>, and loadit simultaneously to the page with the <code>onLoad()</code> event handler:</p>
 {% highlight html %}
 <html>
 <head>
-<script language = "JavaScript">
+<script language ="JavaScript">
 function preloader()
 {
 heavyImage = new Image();
@@ -32,9 +32,9 @@ heavyImage.src = "heavyimagefile.jpg";
 <p>Note that the image tag does not itself handle onMouseOver()and onMouseOut() events, which is why the &lt;img&gt; tag in the example abovehas been enclosed in an &lt;a&gt; tag, which does include support for thoseevent types.</p>
 <h1>Loading multiple images with arrays</h1>
 <p>In practice, you will probably need to preload more thanjust one image; for example, in a menu bar containing multiple image rollovers,or if you’re trying to create a smooth animation effect. This is not difficult;all you need to do is make use of JavaScript’s arrays, as in the example below:</p>
-{% highlight html %}
-<script language="JavaScript">
 
+{% highlight javascript %}
+<script language="JavaScript">
 function preloader()
 {
 
@@ -58,41 +58,35 @@ function preloader()
      }
 
 }
-
 </script>
 {% endhighlight %}
+
 <p>In the above example, you define a variable i and an Image() object cleverly named imageObj. You then define a new arraycalled images[], where each arrayelement stores the source of the image to be preloaded. Finally, you create afor() loop to cycle through the array and assign each one of them to theImage() object, thus preloading it into the cache.<br>
 The onLoad() event handler</p>
 <p>Like many other objects in JavaScript, the Image() objectalso comes with some event handlers. The most useful of these is undoubtedlythe onLoad() handler, which is invoked when the image has completed loading.This handler can be hooked up with a custom function to perform specific tasksafter the image has completed loading. The following example illustrates thisby displaying a “please wait” screen while the image loads, and thensending the browser to a new URL once it’s finished loading.</p>
+
 {% highlight html %}
 <html>
 <head>
 <script language="JavaScript">
-
 // create an image object
 objImage = new Image();
-
 // set what happens once the image has loaded objImage.onLoad=imagesLoaded();
-
 // preload the image file
 objImage.src='images/image1n.gif';
-
 // function invoked on image load
 function imagesLoaded()
 {   
      document.location.href='index2.html';
 }
-
 </script>
 </head>
-
 <body>
-
 Please wait, loading images...
-
 </body>
 </html>
 {% endhighlight %}
+
 <p>Of course, you can also create an array of images and loopover it, preloading each one and keeping track of the number of images loadedat each stage. Once all the images are loaded, the event handler can beprogrammed to take the browser to the next page (or do any other task).</p>
 <h1>Preloading and Multi-State Menus</h1>
 <p>Now, how about using all the theory you just learned in anactual application? This next one is a little piece of code I recently hadoccasion to write – a menu bar consisting of buttons (image links), each ofwhich can be in any one of three states: normal, hover and click. Since thebuttons have multiple states, it is necessary to use image preloading to ensurethat the menu responds quickly to changes in its state. The code in <strong>Listing A</strong> illustrates this.</p>
@@ -109,4 +103,3 @@ Please wait, loading images...
 <p>The resetAll() function is a convenient way to reset all theimages to their normal state. This is necessary because, when an item of themenu is clicked, all other items in the menu must revert to their normal statebefore the clicked item can change to its click state.</p>
 <p>The setNormal(), setHover() and setClick() functions takecare of changing the source of a particular image (image number passed asfunction argument) to its normal, hover, or click state respectively. Sinceimages which are clicked must remain in that state until another image isclicked (see rule #2), they are temporarily immune to mouse movements; thus,the setNormal() and setHover() functions include code to only change a button’sstate if it is not already in its click state.</p>
 <p>The above is just one of the many ways in which preloadingcan help you speed up the response time of your JavaScript effects. Use thetechniques outlined above in your site, and alter them where needed to fit yourrequirements. Good luck!</p>
-<p><a>source</a></p>
