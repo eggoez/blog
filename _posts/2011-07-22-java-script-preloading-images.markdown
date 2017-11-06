@@ -2,7 +2,7 @@
 layout: post
 date: 2011-07-22 17:18:35 +0700
 title: Java Script Preloading Images
-categories: code JavaScript
+categories: asal
 tags: JavaScript
 ---
 <p>Lots of high-res images can really spruce up a Web site. Butthey can also slow it down—images are files, files use bandwidth, and bandwidthis directly related to wait times. It’s time you get yourself an education onhow to speed things up with a little trick called image preloading.</p>
