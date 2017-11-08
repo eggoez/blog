@@ -1,8 +1,13 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="id-ID">
+  {% include head.html %}
 
-
+  <body class="nduwur">
+	{% include navbar.html %}
+    {% include header.html %}
+ <ul class="breadcrumb"><li class="breadcrumbs active"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a rel="nofollow" href="{{ site.url }}" itemprop="url"><span itemprop="title">Beranda</span></a></span> / {{ page.title}}</li></ul>
+    <div class="page-content">
+      <div class="wrapper">
   <h1 class="page-heading">Blog's <span class="pull-right rss-subscribe alignright"><a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="via RSS"><i class="fa fa-rss" aria-hidden="true"></i></a></span></h1>
   <hr />
 <!-- notif -->
@@ -18,3 +23,12 @@ layout: default
   </ul>
 
 <br />
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include akhir.html %}
+
+  </body>
+
+</html>
