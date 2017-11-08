@@ -7,12 +7,12 @@ layout: main
 					<div class="alert alert-dismissable alert-info"><button type="button" class="close" data-dismiss="alert">x</button>
    						 <h5>Ini adalah alamat URL blog baru saya yang dulunya <strong>eggoez.com</strong>. beberapa halaman mungkin belum benar. </h5>
    					</div>
-  <ul>
+  <div class="post-list">
     {% for post in site.posts %}
-      <li>
+      <p>
         <span class="text-danger fa fa-angle-double-right" aria-hidden="true"></i> <a class="text-primary" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small class="fa fa-angle-right text-muted"> {{ post.date | date: "%-d %b  %Y" }} </small></span>
-      </li>
+      </p>
     {% endfor %}
-  </ul>
+  </div>
 
 <br />
