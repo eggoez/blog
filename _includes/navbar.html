@@ -16,7 +16,7 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
 								<li><a href="/">Beranda</a></li>
-							{% if page.layout == 'post' %}<li class="active dropdown">{% else %}<li class="dropdown">{% endif %}
+							{% if site.baseurl %}<li class="active dropdown">{% else %}<li class="dropdown">{% endif %}
 							<a data-toggle="dropdown" class="dropdown-toggle goez active" href="/blog/">Blog's<b class="caret"></b></a>
 									<ul class="dropdown-menu">
 										{% if page.url == '/arsip/' %}<li class="active">{% else %}<li>{% endif %}<a href="/blog/arsip">Arsip</a></li>
