@@ -9,7 +9,7 @@ layout: main
    						 <h5>Ini adalah alamat URL blog baru saya yang dulunya <strong>eggoez.com</strong>. beberapa halaman mungkin belum benar. </h5>
    					</div>
 					{% else %}{% endif %}
-  <div class="post-list">
+  <div class="post-lists">
     {% for post in site.posts %}
       <p>
         <span class="text-danger fa fa-angle-double-right"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small class="fa fa-angle-right text-muted"> {{ post.date | date: "%-d %b  %Y" }} </small></span>
