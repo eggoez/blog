@@ -12,7 +12,7 @@ layout: main
   <div class="post-lists">
     {% for post in site.posts %}
       <p>
-        <span class="text-danger fa fa-angle-double-right"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small class="fa fa-angle-right text-muted"> {{ post.date | date: "%-d %b  %Y" }} </small></span>
+        <span class="text-danger fa fa-angle-double-right"></span> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small class="fa fa-angle-right text-muted"> {{ post.date | date: "%-d %b  %Y" }} </small>
       </p>
     {% endfor %}
   </div>
