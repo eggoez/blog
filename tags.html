@@ -39,7 +39,7 @@ permalink: /tags/
                     {% for post in site.posts %}
                         {% for otag in post.tags %}
                             {% if tag == otag %}
-                               <i class="fa fa-pencil-square-o" aria-hidden="true"></i> <a href="{{ site.baseurl }}{{ post.url }}" class="red-link">{{ post.title }}</a>
+                               <i class="text-danger fa fa-angle-double-right" aria-hidden="true"></i> <a href="{{ site.baseurl }}{{ post.url }}" class="red-link">{{ post.title }}</a>
                             {% endif %}
                         {% endfor %}
                     {% endfor %}
