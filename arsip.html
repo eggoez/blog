@@ -14,6 +14,6 @@ permalink: /arsip/
             <h3>{{ post.date | date: '%Y' }}</h3>
           {% endif %}
         {% endunless %}
-        <li class="alink"><a href="{{ site.baseurl }}{{ post.url }}" class="green-link">{{ post.title }}</a></li>
+        <li class="text-danger fa fa-angle-double-right"><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
       {% endfor %}
     </ul>
