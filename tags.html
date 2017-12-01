@@ -9,7 +9,7 @@ permalink: /tags2/
                 <ul class="nav nav-pills">
                     {% for tag in site.tags %}
                     <li class="red" style="margin:5px">
-                        <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({ tag | last | size}})></a>
+                        <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({{ tag | last | size}})</a>
                     </li>
                     {% endfor %}
                 </ul>
