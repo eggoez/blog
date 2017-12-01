@@ -2,11 +2,10 @@
 layout: tag
 title: Arsip
 permalink: /arsip/
----
-    <ul>
+<ul>
       {% for post in site.posts %}
         {% unless post.next %}
-          <h3 class"text-danger">{{ post.date | date: '%Y' }}</h3>
+          <h3>{{ post.date | date: '%Y' }}</h3>
         {% else %}
           {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
@@ -14,6 +13,6 @@ permalink: /arsip/
             <h3>{{ post.date | date: '%Y' }}</h3>
           {% endif %}
         {% endunless %}
-        <p><span class="text-danger fa fa-angle-double-right"><span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+        <li><span class="text-danger fa fa-angle-double-right"></span> <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
-    </ul>
+</ul>
