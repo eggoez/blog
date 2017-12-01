@@ -2,9 +2,8 @@
 layout: tag
 title: Tags
 permalink: /tags2/
----
-    <div class="row">
-	 <div class="col-8">
+--->
+	 <div class="col-sm-12 col-md-8 pull-left">
             <section>
             {% capture tags %}
                 {% for tag in site.tags %}
@@ -28,7 +27,7 @@ permalink: /tags2/
             {% endfor %}
             </section>
         </div
-        <div class="col-4">
+        <div class="col-sm-12 col-md-4">
             <section class="tags">
                 <ul>
                     {% for tag in site.tags %}
@@ -39,5 +38,4 @@ permalink: /tags2/
                 </ul>
             </section>
     </div>
-       >
-    </div>
+
