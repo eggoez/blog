@@ -5,16 +5,9 @@ permalink: /tags2/
 ---
     <div class="row">
 
-                <ul class="nav nav-pills">
-                    {% for tag in site.tags %}
-                    <li class="red" style="margin:5px">
-                        <a href="/tags/{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;<span class="badge">{{ tag | last | size}}</span></a>
-                    </li>
-                    {% endfor %}
-                </ul>
 
-<!--
-            {% capture tags %}
+
+   {% capture tags %}
                 {% for tag in site.tags %}
                     {{ tag[0] }}
                 {% endfor %}
@@ -33,5 +26,12 @@ permalink: /tags2/
                         {% endfor %}
                     {% endfor %}
                 </ul>
-            {% endfor %}-->
+            {% endfor %}
 
+                <ul class="nav nav-pills">
+                    {% for tag in site.tags %}
+                    <li class="red" style="margin:5px">
+                        <a href="/tags/{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;<span class="badge">{{ tag | last | size}}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
