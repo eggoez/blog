@@ -8,9 +8,9 @@ permalink: /tags2/
             <section class="tags">
                 <ul class="nav nav-pills">
                     {% for tag in site.tags %}
-                    <li class="red" style="margin:5px">
-                        <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({{ tag | last | size}})</a>
-                    </li>
+                    
+                      <i class="text-danger fa fa-angle-double-right" aria-hidden="true"></i>  <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({{ tag | last | size}})</a>
+                    
                     {% endfor %}
                 </ul>
             </section>
@@ -31,7 +31,7 @@ permalink: /tags2/
                     {% for post in site.posts %}
                         {% for otag in post.tags %}
                             {% if tag == otag %}
-                                <li class="alink"><a href="{{ post.url }}" class="red-link">{{ post.title }}</a></li>
+                                <i class="text-danger fa fa-angle-double-right" aria-hidden="true"></i> <a href="{{ post.url }}" class="red-link">{{ post.title }}</a>
                             {% endif %}
                         {% endfor %}
                     {% endfor %}
