@@ -1,26 +1,13 @@
 ---
-layout: default
+layout: page
 title: Tags
-permalink: /tags2/
+description: A page with tag cloud and display of articles tag wice
+theme: red
 ---
-
     <div class="row">
-        <div class="col-8">
-		
-		{% for tag in sortedtags %}
-                <h3 id="{{tag}}">{{tag}}</h3>
-                <ul>
-                    {% for post in site.posts %}
-                        {% for otag in post.tags %}
-                            {% if tag == otag %}
-                                <li class="alink"><a href="{{ post.url }}" class="red-link">{{ post.title }}</a></li>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </ul>
-            {% endfor %}
+        <div class="col-md-2">
         </div>
-        <div class="col-4">
+        <div class="col-md-8">
             <section class="tags">
                 <ul class="nav nav-pills">
                     {% for tag in site.tags %}
@@ -47,7 +34,18 @@ permalink: /tags2/
 
             {% assign sortedtags = tags | split:' ' | sort %}
 
-            
+            {% for tag in sortedtags %}
+                <h3 id="{{tag}}">{{tag}}</h3>
+                <ul>
+                    {% for post in site.posts %}
+                        {% for otag in post.tags %}
+                            {% if tag == otag %}
+                                <li class="alink"><a href="{{ post.url }}" class="red-link">{{ post.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                </ul>
+            {% endfor %}
             </section>
         </div>
     </div>
