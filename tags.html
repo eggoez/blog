@@ -3,8 +3,8 @@ layout: default
 title: Tags
 permalink: /tags2/
 ---
-   <div class="row">
-  <div class="col-8">col-8</div>
+<div class="row">
+  <div class="col-8">
             {% assign sortedtags = tags | split:' ' | sort %}
 
             {% for tag in sortedtags %}
@@ -20,7 +20,7 @@ permalink: /tags2/
                 </ul>
             {% endfor %}
 			</div>
-			<div class="col-4">col-4</div>
+			<div class="col-4">
  
                 <ul class="nav nav-pills">
                     {% for tag in site.tags %}
@@ -36,5 +36,5 @@ permalink: /tags2/
                     {{ tag[0] }}
                 {% endfor %}
             {% endcapture %}
-
+</div>
 
