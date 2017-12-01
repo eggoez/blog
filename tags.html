@@ -4,18 +4,7 @@ title: Tags
 permalink: /tags2/
 ---
     <div class="row">
-        <div class="col-4">
-            <section class="tags">
-                <ul>
-                    {% for tag in site.tags %}
-                    <li>
-                        <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({{ tag | last | size}})</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </section>
-    </div>
-        <div class="col-8">
+	 <div class="col-8">
             <section>
             {% capture tags %}
                 {% for tag in site.tags %}
@@ -38,5 +27,17 @@ permalink: /tags2/
                 </ul>
             {% endfor %}
             </section>
-        </div>
+        </div
+        <div class="col-4">
+            <section class="tags">
+                <ul>
+                    {% for tag in site.tags %}
+                    <li>
+                        <a href="#{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;({{ tag | last | size}})</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+    </div>
+       >
     </div>
