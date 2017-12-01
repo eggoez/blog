@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: Tags
-permalink: /tags2/
+permalink: /tags/
 ---
 	 <div class="col-sm-12 col-md-8 pull-left">
             <section>
@@ -14,7 +14,7 @@ permalink: /tags2/
             {% assign sortedtags = tags | split:' ' | sort %}
 
             {% for tag in sortedtags %}
-                <h4 id="{{tag}}">{{tag}}</h4>
+                <h4 id="{{tag}}"><i class="fa fa-tags text-muted"></i> {{tag}}</h4>
                 <ul>
                     {% for post in site.posts %}
                         {% for otag in post.tags %}
@@ -27,7 +27,7 @@ permalink: /tags2/
             {% endfor %}
             </section>
         </div
-        <div class="col-sm-12 col-md-4 ndelik">
+        <div class="col-sm-12 col-md-4 bagik">
 		<h4>Tag populer</h4>
             <section class="tags">
                 <ul>
