@@ -3,7 +3,7 @@ layout: default
 title: Tags
 permalink: /tags2/
 ---
-    <div class="row">
+
 
 
 
@@ -16,22 +16,21 @@ permalink: /tags2/
             {% assign sortedtags = tags | split:' ' | sort %}
 
             {% for tag in sortedtags %}
-                <h3 id="{{tag}}">{{tag}}</h3>
-                <ul>
+
                     {% for post in site.posts %}
                         {% for otag in post.tags %}
                             {% if tag == otag %}
-                                <li class="alink"><a href="{{ post.url }}" class="red-link">{{ post.title }}</a></li>
+                                <p><a href="{{ post.url }}" class="red-link">{{ post.title }}</a></p>
                             {% endif %}
                         {% endfor %}
                     {% endfor %}
-                </ul>
+
             {% endfor %}
 
-                <ul class="nav nav-pills">
+               <!--
                     {% for tag in site.tags %}
-                    <li class="red" style="margin:5px">
+           
                         <a href="/tags/{{ tag | first | slugize }}/"> {{ tag | first }}&nbsp;<span class="badge">{{ tag | last | size}}</span></a>
-                    </li>
+              
                     {% endfor %}
-                </ul>
+               -->
