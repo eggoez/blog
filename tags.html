@@ -5,10 +5,7 @@ description: A page with tag cloud and display of articles tag wice
 theme: red
 ---
     <div class="row">
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-8">
-            <section class="tags">
+
                 <ul class="nav nav-pills">
                     {% for tag in site.tags %}
                     <li class="red" style="margin:5px">
@@ -16,16 +13,8 @@ theme: red
                     </li>
                     {% endfor %}
                 </ul>
-            </section>
 
-        </div>
-        <div class="col-md-2">
-        </div>
-    </div>
-    <hr/>
-    <div class="row">
-        <div class="col-md-12">
-            <section>
+
             {% capture tags %}
                 {% for tag in site.tags %}
                     {{ tag[0] }}
@@ -46,6 +35,4 @@ theme: red
                     {% endfor %}
                 </ul>
             {% endfor %}
-            </section>
-        </div>
-    </div>
+
