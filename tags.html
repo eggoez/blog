@@ -6,7 +6,11 @@ permalink: /tags2/
 <div class="row">
   <div class="col-8">
             {% assign sortedtags = tags | split:' ' | sort %}
-
+            {% capture tags %}
+                {% for tag in site.tags %}
+                    {{ tag[0] }}
+                {% endfor %}
+            {% endcapture %}
             {% for tag in sortedtags %}
                 <h3 id="{{tag}}">{{tag}}</h3>
                 <ul>
@@ -31,10 +35,6 @@ permalink: /tags2/
                 </ul>
 
 
-            {% capture tags %}
-                {% for tag in site.tags %}
-                    {{ tag[0] }}
-                {% endfor %}
-            {% endcapture %}
+
 </div>
 
