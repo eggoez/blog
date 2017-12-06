@@ -1,10 +1,16 @@
 ---
-layout: search
+layout: default
+title: Cari
+description: Pencarian
+permalink: /cari/
 ---
-<form action="{{ site.url }}{{site.baseurl }}/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
+<div class="search">
+<form action="{{ site.url }}{{site.baseurl }}/cari" method="get">
+<label for="search-box"></label>
+<input type="text" class="text form-control input-lg" id="search-box" name="query" placeholder="Apa yang anda cari?">
+        <span class="input-group-btn">
+		<button class="btn btn-primary input-lg" data-loading-text="Memasukkan.." type="submit" value="search">Ayyo</button>
+		</span>
 </form>
 
 <ul id="search-results"></ul>
@@ -25,3 +31,4 @@ layout: search
 </script>
 <script src="{{ site.url }}{{site.baseurl }}/js/lunr.min.js"></script>
 <script src="{{ site.url }}{{site.baseurl }}/js/search.js"></script>
+</div>
