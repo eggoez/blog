@@ -6,7 +6,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="{{ page.title }}" />
 	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-	<meta name="twitter:image" content="{% if page.img %} {{ page.img }} {% else %} {{ site.img }} {% endif %}" />
+	<meta name="twitter:image" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="{{ page.categories }}{{ page.tags }}" />
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
@@ -14,7 +14,7 @@
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-	<meta property="og:image" content="{% if page.img %} {{ page.img }} {% else %} {{ site.img }} {% endif %}" />
+	<meta property="og:image" content="{% if page.img %}{{ page.img }}{% else %}{{ site.img }}{% endif %}" />
 	<meta property="og:site_name" content="{{ site.owner }}" />
 	<meta property="og:type" content="article" />
 	<meta property="fb:admins" content="{{ page.author }}" />
