@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2011-08-04 17:18:35 +0700
 title: Perlu Perawatan Payudara Saat Hamil
-categories: penyakit
-tags: Wanita Kesehatan
+date: 2011-08-04 10:18:35 Z
+categories:
+- penyakit
+tags:
+- Wanita
+- Kesehatan
+layout: post
 ---
+
 <p>Saat seorang wanita hamil, terjadi perubahan-perubahan pada tubuhnya yang memang secara alamiah dipersiapkan untuk menyambut datangnya si buah hati. Perubahan-perubahan itu antara lain berat badan bertambah, perubahan pada kulit, perubahan pada payudara, dll.</p>
 <p>Perawatan payudara sangat penting dilakukan selama hamil sampai masa menyusui. Hal ini karena payudara merupakan satu-satunya penghasil ASI yang merupakan makanan pokok bayi yang baru lahir sehingga harus dilakukan sedini mungkin.<br>
 Inilah karunia Allah yang sangat besar kepada kaum wanita di mana ASI merupakan makanan paling cocok bagi bayi, komposisinya paling lengkap, dan tidak bisa ditandingi susu formula buatan manusia.<br>

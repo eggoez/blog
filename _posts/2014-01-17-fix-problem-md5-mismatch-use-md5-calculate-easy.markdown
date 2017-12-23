@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-01-17 17:18:35 +0700
 title: Cara Mengatasi Md5 mismatch
-categories: android
-tags: CWM md5
+date: 2014-01-17 10:18:35 Z
+categories:
+- android
+tags:
+- CWM
+- md5
+layout: post
 ---
+
 <p>sebetulnya mudah untuk mengatasi Md5 mismatch, sering kali ini terjadi karena versi cwm <em>(ClockWorkMod)</em> berbeda atau akibat forder di rename menggunakan app dari hh seperti root explorer dll, sedangkan saya pernah uji bila di rename dari pc dengan hh mode (MSC) tidak ada masalah, tapi ya entahlah, lanjut aja ya, *males nulis* jika anda mengalaminya ada beberapa cara untuk mengatasinya, dengan cara <em>ribet</em>, <em>simple</em> dan <em>mudah</em>, hehe :D kategori mudah yaitu dengan menghapus isi dari file&nbsp;<strong>nandroid.md5</strong> lalu langsung menjalankan restore, ada sebagian trik simple dengan merename kembali folder nya menjadi 1 kata disertai angka, tapi ada lagi yang kategori agak ribet yaitu dengan perintah shell, tapi ada cara yang mudah yaitu dengan Md5 Calc, caranya install MD5 Calculate nya dulu.. downloadnya <a title="download md5calc(1.0.0.0) " href="http://ciut.cf/files/download.php?filename=md5calc%281.0.0.0%29.zip" target="_blank">di sini</a><br>
 ikuti petunjuknya dengan gambar di bawah ini:<br>
 klik gambar untuk memperbesar ukuran</p>

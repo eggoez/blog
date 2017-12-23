@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-01-24 17:18:35 +0700
 title: Teman & Musuh
-categories: cerita
-tags: Kisah Friends
+date: 2014-01-24 10:18:35 Z
+categories:
+- cerita
+tags:
+- Kisah
+- Friends
+layout: post
 ---
+
 <p>Di awali dengan pertemuan dan di akhiri dengan perpisahan .<br>
 Berinteraksi dengan dua kemungkinan .<br>
 Teman bisa menjadi musuh , bila salah satu mulai mencari masalah .<br>

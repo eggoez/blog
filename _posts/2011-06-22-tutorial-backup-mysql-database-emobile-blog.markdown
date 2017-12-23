@@ -1,12 +1,16 @@
 ---
-layout: post
-date: 2011-06-22 17:18:35 +0700
 title: Tutorial Backup MySQL database eMobile Blog
+date: 2011-06-22 10:18:35 Z
+categories:
+- robots
+tags:
+- index
+- MySql
+layout: post
 img: 
 author: eggoez
-categories: robots
-tags: index MySql
 ---
+
 <p>Tanya dong guz..</p>
 <ol>
 <li>Bagaimana cara backup database eMoblie Blog?</li>

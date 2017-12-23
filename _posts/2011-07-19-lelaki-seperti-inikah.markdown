@@ -1,10 +1,13 @@
 ---
+title: Lelaki Seperti Inikah
+date: 2011-07-19 10:18:35 Z
+categories:
+- cinta
+tags:
+- Sikap
 layout: post
-date: 2011-07-19 17:18:35 +0700
-title: 
-categories: cinta 
-tags: Sikap
 ---
+
 <p>1. Kuat amalan agamanya. Menjaga solat fardhu, sering berjemaah dan solat pada awal waktu. Auratnya juga sentiasa dipelihara dan memakai pakaian yang sopan. Sifat ini boleh dilihat terutama sewaktu bersukan.<br>
 2. Akhlaknya baik, yiaitu seorang yang nampak tegas, tetapi sebenarnya seorang yang lembut dan mudah bertolak ansur. Pertuturannya juga mesti sopan, melambangkan peribadi dan hatinya yang mulia.<br>
 3. Tegas mempertahankan amarahnya. Tidak berkunjung ke tempat-tempat yang boleh menjatuhkan kredibilitinya.<br>

@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-09-18 17:18:35 +0700
 title: WDYL multi pencarian terbaru dari Google
-categories: news
-tags: Google
+date: 2011-09-18 10:18:35 Z
+categories:
+- news
+tags:
+- Google
+layout: post
 ---
+
 <p>Google tidak kekurangan layanan di seluruh web, tetapi mereka sumber berbagai informasi sering tampak terputus. Sebuah antarmuka Google baru, yang disebut WDYL – atau “What do you love?” – Memutuskan bahwa dengan membawa bersama-sama preview dari berbagai pencarian Google khusus dalam satu tempat.</p>
 <p><strong>Dimana, Bagaimana, &amp; Bagaimana WDYL</strong><br>
 Silahkan menuju <a title="What do you love?" href="http://wdyl.com" target="_blank">WDYL.com</a> dan Google akan meminta Anda pertanyaan tentang: Apa yang Anda sukai? Tanggapan Anda harus pergi ke dalam kotak pencarian, dan tombol jantung kecil di sebelah kanan menggantikan khas Anda / tombol “cari”.</p>

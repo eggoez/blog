@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-01-24 17:18:35 +0700
 title: Download BBM Mod v.2.6.30 (Transparent & Change Background)
-categories: android
-tags: Apk Apps BBM
+date: 2015-01-24 10:18:35 Z
+categories:
+- android
+tags:
+- Apk
+- Apps
+- BBM
+layout: post
 ---
+
 <p>BBM Mod kali ini datangnya bukan dari master “<a href="https://eggoez.bitbucket.io/blog/android/download-bbm-mod-v-2-3-14-custom-background.html" target="_blank">YOYOCX</a>” tapi dari master “<a href="http://cyber4rd.biz" target="_blank">Cyber4rd</a>” aKa Ardik D. Selain BBM (Black Berry Messenger) ini bisa mengganti gambar latar belakan (background) costum dengan gambar/foto kita ternyata BBM ini sudah menurut saya pribadi “Full Mod”, karena aplikasi BBM ini sudah di rombak sedemikian rupa oleh si Mod, baik icon, dll. Setelah saya mencoba, ada beberapa fitur tambahan yang di usung oleh BBM Mod versi 2.6.0.30 ini yaitu clear RAM usage alias <del>menghapus</del> melonggarkan RAM HH kita, seperti aplikasi Clear RAM yang membedakan adalah ketika aplikasi BBM ini dibuka lalu di (Shake) atau goyang maka dia akan melonggarkan RAM HP sodara. BBM ini kabarnya bisa dan work juga pada android 5. (lolipop) dan pada semua device android baik yang XHDPI, HDPI, MDPI &amp; LDPI. Namun saya akan test BBM ini pada android JellyBean dan ICS saya, Dan ini adalah SS dari hp walkan kesayangan saya yang masih android 4.0.4 ICS. Ini adalah SS icon ic launcher nya, yang sebelah kanan (termod), icon dan menu di nav bar. gambar kanan adalah icon R/D yang sudah di rombak.<span id="more-1320"></span><br>
 <a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/01/Screenshot_2015-01-23-23-17-14-copy.jpg" class="fancybox image"><img class="aligncenter wp-image-1341 size-large" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/01/Screenshot_2015-01-23-23-17-14-copy-1024x538.jpg" alt="Full Mod ICON" width="730" height="384"></a></p>
 <p>Dan ini adalah SS ketika HPnya saya Goyang (Shake), akan memunculkan notifikasi toast bahwa memory (RAM) sudah di longgarkan. Selain itu Kita juga bisa mengirim Sticker pada Percakapan di Group<br>

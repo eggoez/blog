@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-26 17:18:35 +0700
 title: Manusia Bodoh
-categories: lagu
-tags: Lyric 
+date: 2011-07-26 10:18:35 Z
+categories:
+- lagu
+tags:
+- Lyric
+layout: post
 ---
+
 <p>Tekadang >tiada salahnya berbicara tentang cinta :o mengingat lagu Ada Band, yang manusia bodoh menjadikan saya mengingat masa lalu, lagu ini begitu wah gitu :s tekadang saya :'(&nbsp;ahh tidak jadi…<span id="more-518"></span></p>
 <blockquote><p>Dahulu terasa indah<br>
 Tak ingin lupakan<br>

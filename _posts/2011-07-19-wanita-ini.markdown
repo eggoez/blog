@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-19 17:18:35 +0700
 title: Wanita Ini
-categories: sosok
-tags: Sikap
+date: 2011-07-19 10:18:35 Z
+categories:
+- sosok
+tags:
+- Sikap
+layout: post
 ---
+
 Wanita memang makhluk yang menakjubkan kerana wanita sering hadir dengan kecantikan, lekuk body badan yang menawan, kelembutan serta tingka h laku yang sangat beda dengan lelaki. Dalam pada masa yang sama, lelaki juga mempunyai kriteria dalam memilih wanita, rnath pacar atau sekedar teman. teman tidur? hueheue.. Jangan sangka lelaki akan tertarik kepada setiap engkau wahai wanita yang mereka jumpai kerana mereka juga ada ciri-ciri wanita yang mereka tidak gemari lantas mereka hindari.
 
 Cara Jalan

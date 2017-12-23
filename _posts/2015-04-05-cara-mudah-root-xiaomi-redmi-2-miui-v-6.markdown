@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-04-05 17:18:35 +0700
 title: Cara Mudah Root Xiaomi Redmi 2 Miui v.6
-categories: android
-tags: Redmi2 Rooting Xiaomi
+date: 2015-04-05 10:18:35 Z
+categories:
+- android
+tags:
+- Redmi2
+- Rooting
+- Xiaomi
+layout: post
 ---
+
 <p>Tulisan kali ini adalah tentang bagaimana cara root xiaomi redmi 2, untuk redmi lainya bisa dicoba namun saya belum test untuk redmi lain, Jika Redmi 4G anda bisa menggunakan Tools <a href="http://www.kingoapp.com/" target="_blank">KingoROOT</a>. Jika anda pengguna Redmi 2 4G Rom versi <a href="http://en.miui.com/download-261.html#371" target="_blank">global</a> anda tidak akan menemukan root permission pada Security anda, lain dengan versi <a href="http://en.miui.com/download-261.html#364" target="_blank">Developer</a> yang sudah ter-root dari lahir nya, Sebenarnya kita bisa saja Root Redmi kita tanpa aplikasi Pihak ke 3, yaitu dengan cara install Rom versi Developers, tapi kebanyakan pengguna akan bingung menggunakan rom versi developers, selain bahasa nya yang tidak multilang, dan kebanyakan aplikasi GJ, dan tulisan cina, serta tidak dilengkapi aplikasi Google Apps membuat pengguna tidak familiar dengan yang versi Developers, maka dari itu kebanyakan orang memilih versi global yang stabil dan sangat sedikit bug nya, baik ada beberapa cara untuk Root Xiaomi Redmi 2 anda, yang pertama cara paling mudah adalah dengan Recovery menggunakan Tools berikut, sedikit ribet namun saya berhasil, Apa saja yang anda butuhkan? Silahkan Download bahan nya dahulu.</p>
 <p><span id="more-1583"></span>Driver Adb untuk Redmi 2 || <a href="http://androidxda.com/download-xiaomi-usb-drivers" target="_blank">Download di sini</a>.<br>
 Portable CWM Recovery 11MB || <a href="http://ge.tt/api/1/files/3EQEMnD2/0/blob?download" target="_blank">Download di sini</a>. || <a href="http://d-h.st/fIar" target="_blank">Mirror</a><br>

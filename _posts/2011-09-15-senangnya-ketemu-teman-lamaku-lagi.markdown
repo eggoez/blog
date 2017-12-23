@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2011-09-15 17:18:35 +0700
 title: Ketemu teman lama
-categories: 4-x-4
-tags: IRC mIRC
+date: 2011-09-15 10:18:35 Z
+categories:
+- 4-x-4
+tags:
+- IRC
+- mIRC
+layout: post
 ---
+
 <p>#BINTANG_JATUH<br>
 [20:32] == g0eZ [N3@nyit-nyit.net] has joined #bintang_jatuh<br>
 [20:32] -ChanServ- [#Bintang_Jatuh] Welcome to #bintang_jatuh Allnetwork | Rules No Spam, Badwords, Badnicks, Harassment Users, Flood and advertise or You will be banned from this channel DILARANG ASAL add AKICK list DISINI | MASKOT #bintang_jatuh tahun ini adalah bolu download app irc hp di http://matrix-multimedia.co.cc<br>

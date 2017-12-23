@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2011-05-06 17:18:35 +0700
 title: Inilah Aku
+date: 2011-05-06 10:18:35 Z
+categories:
+- coretan
+tags:
+- about
+layout: post
 img: 
 author: eggoez
-categories: coretan
-tags: about
 ---
+
 <p>Aku? Hanyalah seorang pemimpi dan aku bukan satu satunya..<br>
 Aku? Hanyalah seorang yang berasal dari keluarga miskin yang serba kekurangan..<br>
 Aku? Hanyalah sosok dari wajah orang pinggiran yang sedang mencari jati diri..<br>

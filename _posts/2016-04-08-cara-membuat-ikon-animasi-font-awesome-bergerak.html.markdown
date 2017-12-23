@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2016-04-08 17:18:35 +0700
 title: Cara Membuat Icons Font Awesome Bergerak
-categories: bagaimana
-tags: code
+date: 2016-04-08 10:18:35 Z
+categories:
+- bagaimana
+tags:
+- code
+layout: post
 ---
+
 <p>NB: Untuk melihat icons nya berfungsi di tulisan ini jika anda menggunakan tampilan mobile/classic beralihlah ke tampilan Desktop.</p>
 <p>Pastinya sudah pada tau kan apa itu Font Awesome? buat anda yang belum tau bisa langsung menuju halaman <a href="https://fortawesome.github.io/Font-Awesome/icons/">Font Awesome</a>.</p>
 <p>Nah di kesempatan yang sempit ini saya ingin memberi tutorial bagaimana membuat icons awesome itu bergerak, bagini cara menganimasikan, animasi ini di kembangkan oleh <strong><a href="https://github.com/l-lin">Louis LIN</a></strong> ya, anda bisa fork project nya di <a href="https://github.com/l-lin/font-awesome-animation" target="_blank">github</a>.</p>

@@ -1,11 +1,14 @@
 ---
-layout: post
-date: 2016-04-07 17:18:35 +0700
 title: Begini Cara Membuat Style Huruf Tebal Miring Coret Di Whatsapp
+date: 2016-04-07 10:18:35 Z
+categories:
+- android
+tags:
+- Apps
+- WhatsApp
+layout: post
 img: https://eggoez.bitbucket.io/wp-content/uploads/2016/04/Screenshot_2016-04-07-21-54-39.png
 author: eggoez
-categories: android
-tags: Apps WhatsApp
 ---
 
 <p>WhatsApp terbaru nantinya selain mendukung pesan aman yang ter-enkripsi juga akan membawa fitur menarik lainya, yaitu bisa kirim text style, contoh:</p>

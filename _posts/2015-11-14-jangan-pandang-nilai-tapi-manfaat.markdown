@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2015-11-14 17:18:35 +0700
 title: Jangan Pandang Nilai Tapi Manfaat
-categories: cerita
-tags: Cerpen Islam
+date: 2015-11-14 10:18:35 Z
+categories:
+- cerita
+tags:
+- Cerpen
+- Islam
+layout: post
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/11/100000vs1000.png" class="fancybox image"><img class=" wp-image-1922 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/11/100000vs1000.png" alt="100000vs1000" width="173" height="154"></a>Kertas Rp1,000 dan Rp 100,000 dibuat dari kertas yg sama dan diedarkan oleh Bank Indonesia (BI). Ketika dicetak, mereka bersama, tetapi berpisah di bank dan beredar di masyarakat. Bagaimanapun, 4 bulan kemudian mereka bertemu secara tidak sengaja di dalam dompet seorang pemuda.</p>
 <p>Maka mereka pun ngobrol:</p>
 <blockquote><p><strong>Rp 100,000:</strong> Kenapa badan kamu begitu lusuh, kotor dan berbau amis?<br>

@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-03-03 17:18:35 +0700
 title: Kumpulan Kata cinta Mario teguh
-categories: cinta
-tags: bijak
+date: 2014-03-03 10:18:35 Z
+categories:
+- cinta
+tags:
+- bijak
+layout: post
 ---
+
 <p>Berikut ini adalah kalimat dari susunan kata-kata cinta milik mario teguh,,&nbsp; Kumpulan kalimat di bawah ini adalah kata kata mario teguh yang bertema cerita cinta,, diambil dari berbagai sumber &amp; twitter serta facebook milik mario teguh,,</p>
 <blockquote><p>Detak jantung terus berlantun, langkah kaki tetap terpadu<br>
 Dalam lembaran penuh warna kehidupan angan yang terpendam kan terwujud<br>

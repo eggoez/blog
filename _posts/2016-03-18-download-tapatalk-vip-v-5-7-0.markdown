@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2016-03-18 17:18:35 +0700
 title: Download Tapatalk VIP v.5.7.0
-categories: android
-tags: Apk Apps
+date: 2016-03-18 10:18:35 Z
+categories:
+- android
+tags:
+- Apk
+- Apps
+layout: post
 ---
+
 <p>Langsung ajah, saya agak kurang suka sama aplikasi ini, tidak suka saya karena developer nya sangat pintar membuat ide <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f635.png" alt="😵" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> jadi Aplikasi ini adalah ancaman untuk para blogger dan juga forum admin ya <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f632.png" alt="😲" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> karena cara kerja aplikasi ini, pasti jika anda mencari aplikaisi ini anda sudah mengerti maksud saya, mungkin saat ini aplikasi ini masih menargetkan forum aja tapi jangan salah karena saat ini sudah merambat ke blog, coba aja cari “eggoez” nanti muncul blog saya ini, anda bebas bisa membaca lewat Tapatalk, tapi bagi saya sebagai admin blog ya agak gimana gitu, mau tidak saya daftarkan tapi kok lumayan juga trafiic yang dibawa tapatalk, mau saya daftarkan kok jadinya saya sia sia mendesain blog ini sedemikian rupa, juga buat para blogger iklan nya ga kelihatan alias di ganti iklan nya Tapatalk, jadi pendeknya seperti ini, blog dan forum anda menjadi incaran Tapatalk, jika anda tidak mendaftarkan misal forum anda anda rugi karena Tapaltalk user banyak sekali dan pastinya akan memudahkan user forum anda juga untuk berinteraksi, notifikasi langsung bunyi layaknya aplikasi messenger, tapi jika anda mendaftarkan forum anda semua konten forum anda akan menjadi modal pendapatan Tapatalk, karena iklan di forum anda tidak terlihat lagi iklanya jadi iklan nya aplikasi Tapatalk, so yang dapet duit Tapatalk, gimana? Tapatalk pintar kan buat desain forum anda tidak berguna? <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f60b.png" alt="😋" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"><br>
 <span id="more-2079"></span><br>
 Di Tapaltak sendiri kini sudah ada miliaran forum yang di daftarkan, dan di Tapatalk ada fitur Upgrade VIP buat usernya, jadi kalau user tidak pengen liat iklan harus berlangganan sekitar 21 ribu rupiah perbulan tergantung PPN juga, makin enak kan si Tapatalk? modal apa yang didapet apa? cuogg!! <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f621.png" alt="😡" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"></p>

@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2014-01-30 17:18:35 +0700
 title: Cara mudah install BBM di Gingerbread (GB) 100% Work
-categories: android
-tags: BBM Apk Apps
+date: 2014-01-30 10:18:35 Z
+categories:
+- android
+tags:
+- BBM
+- Apk
+- Apps
+layout: post
 ---
+
 <p>Hmmm.. denger dengar si kata angin <em>BBM Coming to GB</em> bulan Februari mendatang,, tapi entahlah.. yang sekarang kita bahas ialah bagaimana cara install BBM di android <em>Gingerbread</em> atau GB 2.3.* oke langsung saja ada syarat² yang musti di penuhi..<br>
 Kopi, Rokok haha.. yang dibutuhin yakni yaitu adalah:</p>
 <p>1 <em>Memory</em> jangan kepenuhan<br>

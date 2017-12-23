@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2011-03-20 17:18:35 +0700
 title: Sejarah main-hosting.com
+date: 2011-03-20 10:18:35 Z
+categories:
+- sejarah
+tags:
+- Hosting
+layout: post
 img: 
 author: eggoez
-categories: sejarah
-tags: Hosting
 ---
+
 <p>Domain <strong>main-hosting.com</strong> telah didaftarkan pada tanggal 1 September 2003, dan nama server&nbsp; akan kembali ke November 26, 2003. Hal ini tercantum sebagai nameserver untuk domain dan 732 terdaftar sebagai nameserver utama untuk 722 domain termasuk:<span id="more-269"></span></p>
 <ul>
 <li> 451. COM domain</li>

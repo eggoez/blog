@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2011-06-11 17:18:35 +0700
 title: Oral Seks Penyebab Kanker
+date: 2011-06-11 10:18:35 Z
+categories:
+- writing
+tags:
+- Sexs
+layout: post
 img: 
 author: eggoez
-categories: writing
-tags: Sexs
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/kanker-oral-sex.jpg" class="fancybox image"><img class=" size-thumbnail wp-image-1613 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/kanker-oral-sex-150x150.jpg" alt="kanker oral sex" width="150" height="150"></a>Apakah Anda tahu bahwa aktivitas seks oral dapat menyebabkan kanker mulut? Sebuah studi dari The Johns Hopkins University School of Medicine ilmuwan mengatakan bahwa kegiatan seks oral adalah salah satu cara transmisi human papillomavirus (HPV) adalah virus yang menyebabkan kanker serviks dari leher rahim ke dalam mulut yang dapat menyebabnya munculnya kanker mulut.<br>
 <span id="more-259"></span><br>
 Sebuah studi juga mengungkapkan jumlah pasien dengan kanker mulut setiap tahunnya meningkat selama sepuluh tahun terakhir, melebihi bahkan kanker testis dan kanker serviks itu sendiri. Rata-rata pasien adalah mereka yang berusia di bawah 45 tahun ketika aktivitas seksual mereka tinggi.<br>

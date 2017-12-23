@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-01-26 17:18:35 +0700
 title: Hal Penghancur Persahabatan
-categories: writing
-tags: Kisah Friends
+date: 2014-01-26 10:18:35 Z
+categories:
+- writing
+tags:
+- Kisah
+- Friends
+layout: post
 ---
+
 <p>SAKING dekatnya kita dengan sahabat dan memiliki persahabatan yang indah, kadang jarang membuat kita berpikir bagaimana hubungan akan langgeng. Padahal banyak hal yang bisa membuat persahabatan hancur. Tanpa disadari barangkali ada sejumlah sifat yang melekat pada diri Anda atau sahabat yang dapat menghancurkan hubungan persahabatan. Berikut ini adalah beberapa di antaranya:</p>
 <p>1. Cemburu<br>
 Cemburu berbeda dengan iri hati, dan istilah pertama bisa sangat meracuni persahabatan. Saat seseorang merasa iri, itu berarti ia menginginkan apa yang Anda miliki. Sedangkan jika seseorang merasa cemburu, ia menginginkan apa yang Anda miliki dan berharap Anda menghilang dari peredaran. Teman yang iri memandang Anda sebagai role model agar dirinya bisa menjadi seperti Anda. Sedangkan teman yang cemburu tidak sanggup menerima kenyataan bahwa Anda memiliki sesuatu yang tidak dimilikinya, sehingga tidak tahan berada di samping Anda.<br>

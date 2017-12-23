@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2011-08-04 17:18:35 +0700
 title: Hosting gratis cPanel® X TigerServe
-categories: hosting-gratis
-tags: Hosting Free cPanel
+date: 2011-08-04 10:18:35 Z
+categories:
+- hosting-gratis
+tags:
+- Hosting
+- Free
+- cPanel
+layout: post
 ---
+
 <p>Ahhh lega rasanya bisa melihat blog ini lagi, setelah kemarin hosting kenak apa ya, rasanya terkena virus tapi teman mengatakan “yo iku jenenge deface” oh baru tahu saya, selamat deh kalau memang terkena dface, selamat buat yang mendface semoga amal ibadahnya diterima :o dan nampaknya saya masih bingung memilih hosting ini, dulu di <a href="https://crystalserve.com/" target="_blank">CrystalServe</a> aman enak murah dan juga uptime nya boleh lah, ahirnya masa kontrak abis kini coba yang lainya lagi, mencoba <a href="https://www.host1plus.com/" target="_blank">host1plus</a> kok tidak tahunya malah morat marit, ah tidak tahu dah, ahirnya mutusin buat gratisan saja lah, eh tidak tahunya masih tata-tata untuk yang baru hosting kenak suspend, malangnya diriku, mikir ulang ketika membuka blog kok kena’ pinalti FortiGuard jambuuuuu, ahirnya mondar mandir cari bantuan ndak nemu, blog ini di kategorikan porno ;( ,<span id="more-556"></span></p>
 <p><img class="alignleft" src="https://stats.eggoez.com/files/webloked.jpg" alt="" width="717" height="461"></p>
 <p>ohh tidakkkk, ahirnya iseng iseng tanya ke support FortiGuard eh tidak tahunya itu permasalahan dengan admin internet anda, wah,, ahirnya buru buru buka email, dan kirim email meminta membuka blacklist pada alamat url saya, alhamdulilah tadi malam kirim email sekarang sudah bisa dibuka, terimakasih kepada admin atau siapa saya yang berada pada operator internet/intranet PT BADAK NGL yang sudah baik hati membuka blacklist alamat blog saya 8) terimakasih.. Dan tak lupa buat Badak Lng terimakasih untuk iNet gratisnya selama ini, :s 1 lagi terimakasih kemarin sudah di upgrade speed nya menjadi 100MBps terimakasih banget.. :D Lho terus kapan hosting gratisnya ini? ;) oke hosting ini sudah lama saya pakai dulu saya pakai cuman disuspended oleh admin, dan ketika anda menuju forum support mungkin anda akan menemukan history saya meminta hostingan saya dahulu, ternyata dikasih loh.. :o syukur deh, langsung saja hosting ini bisa anda rasakan sendiri ketika membuka blog saya ini, ini adalah hosting dari TigerServe tapi untuk wgetnya bukan, lain IP, hosting ini banyak diminati karena unlimited webhost untuk diskspace dan juga bandwith, semua unlimited deh, sudah gitu no ads no force ads dan no script in page, dan satu lagi</p>

@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2011-09-28 17:18:35 +0700
 title: Download Themes style koleksiku
-categories: windows
-tags: Themes Style
+date: 2011-09-28 10:18:35 Z
+categories:
+- windows
+tags:
+- Themes
+- Style
+layout: post
 ---
+
 <p>Iseng iseng kliling di devianart.com eh nemu, Rasanya aku nemu koleksi tema lumayan buat windows XP, mana dia? cekidotttttttttt…</p>
 <p><strong>Lakrits Visual Style</strong><br>
 <img class="alignleft" src="https://eggoez.com/files/Lakrits.png" alt="" width="240" height="150"><a title="Klik untuk Sreen Shot full" href="https://fc07.deviantart.net/fs23/i/2007/336/4/a/Lakrits_Visual_Style_by_lassekongo83.png" target="_blank" class="fancybox image">Sreen Shot</a></p>

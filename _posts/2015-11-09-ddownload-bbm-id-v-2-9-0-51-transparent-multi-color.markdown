@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-11-09 17:18:35 +0700
 title: Download BBM-ID v.2.9.0.51 Flat Transparan Multi Color
-categories: android
-tags: BBM Apps Apk
+date: 2015-11-09 10:18:35 Z
+categories:
+- android
+tags:
+- BBM
+- Apps
+- Apk
+layout: post
 ---
+
 <p>Hai, sorry post ini sudah di draft sejak 27 oktober kemarin hehe :D maklum lom sempet cobain + upload file apk nya,, allrgiht di post kali ini saya ingin berbagi #BBM-ID yang bertema Flat seperti #BBM di <a href="https://eggoez.bitbucket.io/blog/android/download-bbm-mod-v-2-9-0-44-delta-flat-costum-color-material-unlimited.html">post sebelumnya</a>, namun yang berbeda di versi yang ini selain versi bbm nya versi terbaru yaitu 2.9.0.51 bbm id yang versi baru ini juga membawa sedikit perubahan dari kakak nya, yaitu, BBM ini mendukung tema transparan dibawah tampilan yang flat dan materialnya, transparan ya bukan bisa di ganti background, jadi ini akan tembus ke wallpapernya, baik, sedikit saja kutip dari si modded bbm ini, yah si <a href="http://www.cyber4rd.in" target="_blank">cyber4rd</a> bahwa di bbm ini memiliki fitur seperti ini:<span id="more-1898"></span></p>
 <blockquote><p>Hide Sponsor RU<br>
 Ganti DP tanpa Crop<br>

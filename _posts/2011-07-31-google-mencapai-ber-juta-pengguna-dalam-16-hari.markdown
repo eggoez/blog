@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-31 17:18:35 +0700
 title: Google+ mencapai 10 juta pengguna dalam 16 hari
-categories: news
-tags: Google
+date: 2011-07-31 10:18:35 Z
+categories:
+- news
+tags:
+- Google
+layout: post
 ---
+
 <h3>Ingin tahu berapa lama waktu Facebook dan Twitter?</h3>
 <p><a title="G+" href="httpss://plus.google.com" target="_blank">Google+</a> hanya mengambil 16 hari untuk mencapai 10 juta pengguna. Sebagai perbandingan, baik Twitter dan Facebook mengambil alih 2 tahun untuk memukul tonggak itu, membutuhkan 780 hari dan 852 hari masing-masing.</p>
 <p><a href="httpss://plus.google.com/112418301618963883780/posts/D2Rz5rdciWE" target="_blank">Leon Håland</a> telah berbaik hati mengumpulkan grafik ini, yang membantu menempatkan Google+’s hoki-stick ke dalam perspektif pertumbuhan, dibandingkan dengan rekan-rekan jejaring sosial:<br>

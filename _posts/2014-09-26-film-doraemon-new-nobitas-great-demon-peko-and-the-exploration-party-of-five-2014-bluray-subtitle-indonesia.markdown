@@ -1,10 +1,14 @@
 ---
+title: Film Doraemon New Nobita’s Great Demon-Peko and the Exploration Party of Five
+  (2014) BluRay Subtitle Indonesia
+date: 2014-09-26 10:18:35 Z
+categories:
+- movies
+tags:
+- Doraemon
 layout: post
-date: 2014-09-26 17:18:35 +0700
-title: Film Doraemon New Nobita’s Great Demon-Peko and the Exploration Party of Five (2014) BluRay Subtitle Indonesia
-categories: movies
-tags: Doraemon
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2014/09/doraemon-new-nobitas-grea.jpg" class="fancybox image"><img class="alignleft  wp-image-1212" src="https://eggoez.bitbucket.io/wp-content/uploads/2014/09/doraemon-new-nobitas-grea-257x300.jpg" alt="doraemon-new-nobitas-grea" width="141" height="162"></a>Film baru ini merupakan remake dari film tahun 1982, Doraemon: Nobita’s Great Demon, yang ditulis oleh co-creator Doraemon asli Fujiko F. Fujio. Shinnosuke Yakuwa menyutradarai remake ini, dan Higashi Shimizu menulis skenarionya.</p>
 <p>Cerita bermula ketika Nobita disuruh Giant dan Suneo meminta pada Doraemon untuk mencari dunia misteri sebagai tujuan petualangan mereka pada libur musim panas kali ini.</p>
 <p>Di tengah-tengah pencarian, Nobita pun bertemu dengan seekor anjing terlantar di taman bermain yang kemudian diberi Nobita nama Peko. Petualangan Nobita, Doraemon dan teman-teman di dunia misteri Afrika pun menanti.<span id="more-1219"></span></p>

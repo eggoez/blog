@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-02-01 17:18:35 +0700
 title: Cara install Poweramp Full Version
-categories: android
-tags: Apps Apk
+date: 2014-02-01 10:18:35 Z
+categories:
+- android
+tags:
+- Apps
+- Apk
+layout: post
 ---
+
 <p>Haloo.. udah tau kan poweramp? ya pastinya.. poweramp adalah pemutar media pada device android, poweramp sendiri juga bisa memutar video, tapi entah bagaimana caranya, coz selama ini saya juga belum ngerti bagaimana nampilin ganmbar videonya,, oke berdasarkan pengalaman yang sudah sudah, dulu saya pengeeenn banget poweramp saya ini full version, kenapa?? karena Poweramp hebat,, hehe,, satu yang kusuka yaitu dia membawa driver sendiri pada device kita, dan ada fitur Crossfade, yang seperti winamp, bisa papasan lagunya <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> dan terus pengen soalnya dulu masih&nbsp; trial version, jadi saban trialnya abis musti hapus data app nya, biar bisa dipakai lagi, padahal equalizer, folder dll sudah di setting sedemikian rupa.. tapi mau bagaimana lagi wung gak ngerti.. :D tapi sekarang dah ngerti sebetulnya udah ngerti dari kemarin² tapi masih males mau post.. cz blog masih aburadul.. ini aja masih amburadul, tapi gapapa lah,, yuk kita mulai.. syarat² nya masih tetep.. root oke? kalau udah silahkan download dulu:<span id="more-1079"></span></p>
 <ol>
 <li>Poweramp yang trial.. bisa klik <a title="Poweramp Music Trial" href="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer" target="_blank">di sini</a> atau lewat PlayStore cari saja poweramp.</li>

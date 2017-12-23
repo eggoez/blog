@@ -1,10 +1,17 @@
 ---
-layout: post
-date: 2016-03-12 17:18:35 +0700
 title: Menghapus file .user.ini pada directory domain nginx
-categories: vps
-tags: apache Debian Linux nginx SSH
+date: 2016-03-12 10:18:35 Z
+categories:
+- vps
+tags:
+- apache
+- Debian
+- Linux
+- nginx
+- SSH
+layout: post
 ---
+
 <p>Jika anda menghapus sebuah domain dari nginx server anda pastinya nginx untuk alasan security tidak menghapus directory atau folder domain anda, dan akan menyisakan semua isi file yang sudah ada.</p>
 <p>Nah ketika anda sudah selesai dan ingin hapus semua file/folder domain anda misalnya</p>
 {% highlight shell %}

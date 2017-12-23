@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-01-24 17:18:35 +0700
 title: Anda memiliki potensi untuk menjadi terbaik
-categories: writing
-tags: Penyemangat
+date: 2014-01-24 10:18:35 Z
+categories:
+- writing
+tags:
+- Penyemangat
+layout: post
 ---
+
 <p>Pada dasarnya setiap manusia bisa menjadi yang terbaik dari dirinya apapun latar belakangnya, status sosial maupun ekonomi . Namun mengapa masih banyak manusia bahkan lebih dari lima puluh persen dari jumlah manusia di dunia yang tidak merasa demikian. Lalu dimana letak kesalahannya? Apakah semua itu sudah suratan takdir alias Nasib? Seandainya benar, apakah kita yakin kalau Tuhan menginginkan manusia yang notabene ciptaanNya yang paling sempurna ini menjadi sengsara dan merana. Tentu saja tidak. Hal ini bisa saya buktikan dengan kelebihan-kelebihan yang dianugerahi oleh Sang Pencipta kepada mahluk ciptaanNya yang disebut <strong>Manusia</strong>.<br>
 <span id="more-608"></span><br>
 Manusia adalah mahluk ciptaan Tuhan yang paling sempurna diantara mahluk-mahluk ciptaan lainnya. Selain dikarunia dengan bentuk tubuh yang fungsional, susunan tulang dan otot yang dapat memungkinkan untuk melakukan gerakan yang berbeda-beda, manusia masih dikarunia sebuah <strong>otak yang super canggih yang dapat mengontrol denyut jantung kita sampai dengan 100.000 kali/hari dan mampu mengatur kinerja memompa 25 000 liter darah melalui pembuluh darah yang panjangnya kalau dihubungkan dari ujung ke ujung panjangnya mencapai 100,000 km dan ini sama dengan panjang 2 kali bumi apabila ditarik garis lurus mengitari garis khatulistiwa</strong>. Itupun hanya sebagian kecil dari kemampuan otak kita dan masih banyak lagi yang tidak bisa saya uraikan. <strong>Sungguh luar biasa apa yang mampu dilakukan oleh otak kita yang beratnya hanya 1.5 kg. Semua itu pula diatur dengan sendirinya oleh otak tanpa harus dipantau oleh si pemilik otak. Sungguh menakjubkan!</strong> Sebelum anda melanjutkan membaca artikel ini saya ingin anda merenung sejenak untuk menyadari betapa kita memiliki potensi yang sangat luar biasa untuk kita dayagunakan untuk keberhasilan kita.</p>

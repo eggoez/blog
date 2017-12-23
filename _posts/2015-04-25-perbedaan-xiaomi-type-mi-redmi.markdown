@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2015-04-25 17:18:35 +0700
 title: Xiaomi Type 'Mi' & 'Redmi' itu Berbeda
-categories: android
-tags: Xioami
+date: 2015-04-25 10:18:35 Z
+categories:
+- android
+tags:
+- Xioami
+layout: post
 ---
+
 <p>Jika anda punya rencana membeli HP yang lagi Trend saat ini “Xiaomi” Pastikan anda mengerti yang ingin anda beli tersebut, ibarat orang pacaran, kudu tau dulu seperti apa pasangan yang akan dipacarin sebelum di pacarin, :D baik, jadi jangan salah pilih, Type HP Xiaomi Mi dan Redmi itu beda, selama ini banyak sekali Xiaomi memperkenalkan Device nya, jadi jangan salah beli, karna Type nya cuma beda Mi dan Redmi ajah, contoh&nbsp; Mi 1s ada, Redmi 1s ada, Mi 2 ada, Mi 2s ada, Redmi 2 ada, Redmi 2A ada, Redmi 2s juga ada, dsb <em>(dan saya bingung)</em>, Kalau saya pribadi selama ini bisa lihat beda antara Mi dan Redmi adalah dengan melihat Ponselnya, kalau button (tombol) home back dan show menu berwarna merah, berarti Redmi, jika tidak berwarna (normal) itu type Mi, dan satu lagi, logo, kalau Mi ada logo bertuliskan Mi pada layar kalau Redmi kosong, itu menurut saya pribadi setelah melihat semua Smartphone produk dari Xiaomi<span id="more-1678"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/perbedaan-xiaomi-type-mi-dan-redmi.jpg" class="fancybox image"><img class=" size-full wp-image-1682 aligncenter" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/perbedaan-xiaomi-type-mi-dan-redmi.jpg" alt="perbedaan xiaomi type mi dan redmi" width="640" height="480"></a></p>
 <p>itu menurut saya lho, tapi ada yang lain. baik seperti yang saya kutip pada <a href="http://www.droidlime.com/">droidlime</a> ada beberapa yang membedakan selain yang menurut saya pribadi itu, yaitu yakni adalah ialah:</p>

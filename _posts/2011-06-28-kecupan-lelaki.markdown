@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-06-28 17:18:35 +0700
 title: Kecupan lelaki
-categories: cinta
-tags: Kiss
+date: 2011-06-28 10:18:35 Z
+categories:
+- cinta
+tags:
+- Kiss
+layout: post
 ---
+
 <p>Kucupan /Ciuman yang manakah yang pernah diberikan oleh pasangan anda?</p>
 <p>Rahsia Ciuman seorang Suami (Lelaki)</p>
 <p>Apakah tanda di sebalik ciuman suami atau pasangan anda? Tahukah anda di sebaliknya ada tersirat rahsia? Ya! Apakah rahsia di sebalik sebuah ciuman? Kalau si lelaki atau pun wanita dilihat sedang mencium manja seorang kanak2 kecil yg comel, ia boleh dilihat sebagai tanda kasih dan minatnya terhadap si kecil itu. Ia suatu petanda sayang dan prihatinnya terhadap kanak2 itu. Tetapi apabila ada pasangan lelaki mencium atau mengucupi wanita, apakah tanda dan rahsia di sebaliknya?<br>

@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2014-08-29 17:18:35 +0700
 title: Download BBM Mod v.2.3.14 (Custom Background)
-categories: android
-tags: Apk Apps BBM
+date: 2014-08-29 10:18:35 Z
+categories:
+- android
+tags:
+- Apk
+- Apps
+- BBM
+layout: post
 ---
+
 <p>BBM/ BlackBerry Messenger&nbsp;versi .2.3.14 ini di modiff oleh “YOYOCX”<br>
 Apa BBM mod itu? Google aja yak..<br>
 Akhir akhir ini banyak app bbm modding, tergantung selera ya, ya iseng² nyari yang background Doraemon (eh ada) jadi ya di pasang, hehehe, banyak sana sini app bbm mod dengan gambar² yang disukai pengguna, namun semua itu tidak semua orang menyukai app mod, ada yang kurang “sregk” dengan tampilan/gambar nya dll. tapi kelebihan app bbm yang satu ini bisa ganti (costum) backgroud (gambar) latar belakang kita, nah dari pada ribet nyari bbm mod yang custom gambarnya sudah di set oleh si modded :D ga ada salahnya di cobain yang ini, karena ini bebas mau diberi gambar apa ajah..<br>

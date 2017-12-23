@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-04-21 17:18:35 +0700
 title: Update Rom Redmi 2 MIUI V6.4.4.0.KHJMICB Global
-categories: miui
-tags: Xiaomi MIUI Redmi2
+date: 2015-04-21 10:18:35 Z
+categories:
+- miui
+tags:
+- Xiaomi
+- MIUI
+- Redmi2
+layout: post
 ---
+
 <p>Belum lama Menikmati yang<a href="https://eggoez.bitbucket.io/blog/android/cara-update-rom-redmi-2-miui-v6-4-1-0-khjmicb-global.html"> MIUI V6.4.1.0</a> sekarang sudah muncul update nya yang V6.4.4.0 Global, yah mau gimana lagi, hehe, ketika lihat change log nya sih fixed bug²..<span id="more-1653"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/Update-Rom-Redmi-2-MIUI-V6.4.4.0.jpg" class="fancybox image"><img class="aligncenter size-full wp-image-1654" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/Update-Rom-Redmi-2-MIUI-V6.4.4.0.jpg" alt="Update Rom Redmi 2 MIUI V6.4.4.0" width="682" height="494"></a>Untuk ChangeLOG sendiri yang berhasil saya kutip pada versi 6.4.4 adalah sbb:</p>
 <p><b>Highlights</b></p>

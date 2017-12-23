@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2016-02-24 17:18:35 +0700
 title: Apa itu Vulkan API?
-categories: android
-tags: APi
+date: 2016-02-24 10:18:35 Z
+categories:
+- android
+tags:
+- APi
+layout: post
 ---
+
 <p>Vulkan adalah pemrograman yang diluncurkan Khronos Group sejak tahun lalu, kompatibel dengan sistem operasi Android, Windows, dan Linux.<br>
 Game-game hasil pemrograman Vulkan dikatakan lebih efisien dari segi penggunaan prosesor. Pasalnya, Vulkan memiliki pengaturan GPU dan CPU yang lebih mumpuni ketimbang Open GL.</p>
 <p>Selama bertahun-tahun, Open GL telah menjadi standar pemrograman, dengan kapabilitas untuk prosesor inti tunggal (single core) .</p>

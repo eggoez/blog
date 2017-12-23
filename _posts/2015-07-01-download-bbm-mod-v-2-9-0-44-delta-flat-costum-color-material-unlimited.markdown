@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-07-01 17:18:35 +0700
 title: Download BBM Mod v.2.9.0.44 (Flat Costum Color)
-categories: android
-tags: BBM Apk Apps
+date: 2015-07-01 10:18:35 Z
+categories:
+- android
+tags:
+- BBM
+- Apk
+- Apps
+layout: post
 ---
+
 <p>Pastinya sudah pada tahu update-an #bbm yang terbaru versi <span title="new-bbm.v.2.9.0.44-flat-costum-color-unlimited.(eggoez.com).apk">2.9.0.xx membawa tampilan baru, yah betul flat material dengan warna blue, dan terbilang terlambat sih :D soalnya jaman aplikasi menggunakan material di PS udah awal januari kemarin ;) lalu apa kelebihan bbm yang baru ini? saya rasa dari dulu sampai sekarang bbm yang tersedia di PS yang di buat si Limited Motion itu tidak mempunyai kelebihan satupun, saya sudah gak suka bbm mulai BBM ini tersedia di PS dan saya download namun kecewa dengan tampilan yang gubrakk, tampilanya bawa framework sendiri, banyak gambar dan bikin hp lemot bahkan diam seketika karena ram di kuras oleh aplikasi ini *di xperia live walkman saya* :D maka itu dari sampai sekarang saya tidak begitu wah dengan aplikasi bbm, karna aplikasinya koplak, cuman menang pengguna aja :D *bisa ping! sama hp bb maksudnya* :D soalnya hp bb kan ga banyak pilihan buat messaging, ga ke si robot ijo ini :D udah maki caci nya, biar saya terangkan sedikit yak, buat yang Device nya masih menggunakan Ram 512 kebawah di mohon menutup tulisan ini :D karena saya gak yakin bbm versi terbaru ini bergerak lincah di android anda, baik, ada hal yang menarik dari mod bbm kali ini, dan ini yang membuat saya tidak membenci bbm sepenuhnya, saya masih menggunakan bbm *cuman buat urusan kerja aja* ok ini dia kelebihan mod kali ini:<span id="more-1837"></span></span></p>
 <blockquote><p>– Anti iklan <em>(paling penting buat saya, soalnya bbm seperti sampah banyak iklan)</em><br>
 – Bisa ganti ke tema gelap / terang <em>(dark/white)</em><br>

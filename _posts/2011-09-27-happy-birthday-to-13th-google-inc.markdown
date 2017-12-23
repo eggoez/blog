@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2011-09-27 17:18:35 +0700
 title: Selamat ulang tahun ke 13 Google .Inc
-categories: coretan
-tags: Google Event
+date: 2011-09-27 10:18:35 Z
+categories:
+- coretan
+tags:
+- Google
+- Event
+layout: post
 ---
+
 <p><a href="https://www.google.co.id/logos/2011/Googles_13th_Birthday-2011-hp.jpg" target="_blank" class="fancybox image"><img class="alignleft" src="https://www.google.co.id/logos/2011/Googles_13th_Birthday-2011-hp.jpg" alt="" width="345" height="196"></a></p>
 <p>Selamat hari jadi ya Google :s hari ultah maksudnya, selamat selamat happy birthday to you…&nbsp; (8)<br>
 happy birthday to you<br>

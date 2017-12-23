@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2016-03-21 17:18:35 +0700
 title: Download Update BBM MOD Delta Based v.2.12.0.11
-categories: android
-tags: Apk Apps BBM
+date: 2016-03-21 10:18:35 Z
+categories:
+- android
+tags:
+- Apk
+- Apps
+- BBM
+layout: post
 ---
+
 <p>Buat anda yang tidak mencoba bbm mod ini sangat sayang sekali, karena dari mod yang pernah saya tulis di sini ini adalah yang terbagus mod nya, BBM ini masih dibawah kontirbutor si Yoyocx S ya, yang lebih dikenal dengan BBM Delta. <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f44d.png" alt="👍" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"></p>
 <p>Changelog</p>
 <blockquote><p>– Update Base v2.12.0.11<br>

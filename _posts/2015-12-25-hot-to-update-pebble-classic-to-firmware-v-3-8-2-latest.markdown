@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2015-12-25 17:18:35 +0700
 title: Update Pebble Classic ke firmware v.3.8.2
-categories: smartwach
-tags: Pebble
+date: 2015-12-25 10:18:35 Z
+categories:
+- smartwach
+tags:
+- Pebble
+layout: post
 ---
+
 <p><img class="alignleft" src="https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xft1/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/12331745_961458893915901_1394515510_n.jpg" alt="" width="274" height="274">Cara update #pebble classic ini sebenarnya mudah mudah sulit, hehe soalnya saya ga langsung sukses pas update pertama kali ke firmware v.3.8.2 ini, entah kenapa pebble saya kena bootlop, sampai muncul SOS Screen yang cuma ada gambar hp sama telunjuk tangan mungkin maksudnya suruh benerin lewat hp, tapi apa daya hape berkata “Your Pebble is in factory mode and needs and update” tapi ketika di update cuma bilang “Could not find any firmware to install” dan cuma diberi pilihan Reset your pebble &amp; Contact Support. Ah sampai tengah malam stengah 2 saya uprek2 ini pebble, dan akhirnya sukses juga update nya :D baiklah, di firmware terbaru 3.8.2 ini saya merasakan beda sekali, dari segi penampakan di versi sebelumnya di versi 3.8.2 ini berubah semua, dan banyak fitur terbaru yang tidak bisa anda dapatkan di versi sebelumnya, seperti timeline, animasi yang full, slot nya tak terbatas, aplikasi tak terbatas, huehue, seperti yang saya kutip di website nya ini dia yang baru di versi 3.8.2<span id="more-1987"></span></p>
 <blockquote><p>Timeline. Salah satu fitur yang paling menarik yang diperkenalkan dengan koleksi Pebble Time, waktu menggabungkan informasi yang Anda pedulikan paling (acara mendatang, cuaca, olahraga, rencana perjalanan, dll) dan meletakkan diluar secara kronologis. Untuk informasi lebih lanjut, <a href="https://help.getpebble.com/customer/en/portal/articles/1959913-timeline" target="_blank">klik di sini</a>. <a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/12/oZKWjb3.png" rel="attachment wp-att-1998" class="fancybox image"><img class=" wp-image-1998 alignright" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/12/oZKWjb3-190x300.png" alt="oZKWjb3" width="93" height="147"></a></p>
 <p>Anda dapat akses ke ribuan aplikasi baru di AppStore Pebble Time, termasuk aplikasi informatif yang mengintegrasikan ke timeline Anda.</p>

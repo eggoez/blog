@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-12-15 17:18:35 +0700
 title: Download BBM Mod v.2.10.0.35 Full Animasi
-categories: android
-tags: BBM Apps Apk
+date: 2015-12-15 10:18:35 Z
+categories:
+- android
+tags:
+- BBM
+- Apps
+- Apk
+layout: post
 ---
+
 <p>Buat yang udah nungguin #bbm mod ini dia, sebetulnya ini versi lebih lama sedikit ya, namun di versi teranyar nya bbm ini udah ga lagi membawa fitur sebanyak yang versi ini, bbm mod kali ini datangnya dari si delta labs yah, bbm ini diberikan versi bentukan 2.8.2, yang teranyar saat ini adalah 2.9, bbm versi 2.8.2 adalah versi bbm pabrikan dari RIM 2.10.0.35, so ini bbm terbaru sob, baiklah, setelah beberapa hari saya menggunakan bbm ini, saya merasa PD sekali kalau buka aplikasi bbm ini di tempat umum, karena itu lho, animasinya, wkwk walau sempat hilang percaya diri karna bbm nya berhenti, wkwk, ini sepertinya bug ya, kata si delta sih suruh full installasi kalau bbm nya suka berhenti tiba2, tapi saya ga full installasi, namun kalau saya pakai banyak animasi ketika membuka bbm dan scroll di kontak itu bikin sayangnya bbm telah berhenti, baiklah, ga usah banyak banyak, fitur bbm ini saya bisa katakan keren sekali, selain itu bbm ini bikin saya ga bosen dan pastinya ga ngelag seperti di versi kemarin yah, banyak fitur baru ada dalam paket ini, fitur yang bisa saya temukan adalah:<br>
 <span id="more-1939"></span></p>
 <p><em> &gt;_ Tema, ada banyak pilihan, bisa Transparan, Light/Dark/Black &amp; Sailfish</em><br>

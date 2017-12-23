@@ -1,22 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Blog's
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 owner: eggoez
 email: eggoez@teknik.io
 img: https://avatars2.githubusercontent.com/u/8485824?s=400&v=4
-description: > # this means to ignore newlines until "baseurl:"
-  Everything will be changed!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://goez.my.id" # the base hostname & protocol for your site
-permalink: /:categories/:title.html
-twitter_username: eggoez
-github_username:  eggoez
+description: 'Everything will be changed!
 
-# Build settings
+'
+baseurl: "/blog"
+url: https://goez.my.id
+permalink: "/:categories/:title.html"
+twitter_username: eggoez
+github_username: eggoez
 markdown: kramdown

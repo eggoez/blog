@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-06-24 17:18:35 +0700
 title: Organ tubuh yg terganggu karena begadang
-categories: males
-tags: Penyakit
+date: 2011-06-24 10:18:35 Z
+categories:
+- males
+tags:
+- Penyakit
+layout: post
 ---
+
 <p>Para dokter di National Taiwan Hospital baru-baru ini mengejutkan dunia kedokteran karena ditemukannya kasus seorang dokter muda berusia 37 tahun yang selama ini sangat mempercayai hasil pemeriksaan fungsi hati (GOT,GPT), tetapi ternyata saat menjelang Hari Raya Imlek diketahui positif menderita kanker hati sepanjang 10 cm! Selama ini hampir semua orang sangat bergantung pada hasil indeks pemeriksaan fungsi hati (Liver Function Index). Mereka menganggap bila pemeriksaan menunjukkan hasil index yang normal berarti semua OK. Kesalahpahaman macam ini ternyata juga dilakukan oleh banyak dokter spesialis.<br>
 <span id="more-391"></span><br>
 Benar-benar mengejutkan, para dokter yang seharusnya memberikan pengetahuan yang benar pada masyarakat umum, ternyata memiliki pengetahuan yang tidak benar. Pencegahan kanker hati harus dilakukan dengan cara yang benar. Tidak ada jalan lain kecuali mendeteksi dan mengobatinya sedini mungkin, demikian kata dokter Hsu Chin Chuan.</p>

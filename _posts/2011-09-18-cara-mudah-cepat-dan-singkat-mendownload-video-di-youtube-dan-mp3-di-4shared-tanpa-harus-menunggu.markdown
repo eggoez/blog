@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-09-18 17:18:35 +0700
 title: Cara download video di youtube dan mp3 di 4shared
-categories: coretan
-tags: code
+date: 2011-09-18 10:18:35 Z
+categories:
+- coretan
+tags:
+- code
+layout: post
 ---
+
 <p>Bismillah, pada dasarnya artikel ini dipublikasikan untuk sekedar tutorial kepada adik saya saja, tapi kalau berguna buat yang lain juga allhamdulilah, sudah 7kali ini adik saya bertanya, bagaiaman sih download video di youtube itu? yah dahulu semasa sekolah saya belum melihat youtube ini seperti sekarang, dulu mudah saja kok, tapi sekarang kok tidak bisa ya, eh ternyata setelah membuka <a href="https://id.wikipedia.org/wiki/Youtube" target="_blank">wikipedia</a> youtube sudah berpindah kepemilikan, ternyata youtube di beli oleh pihak Google.Inc sebesar US$1,65 miliar. :O wah cukup mahal juga ya, wkwkw <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> okelah sebenarnya cukup mudah untuk mendownload video di youtube ini, ada beberapa website yang menyediakan fasilitas download, diantaranya seperti http://kickyoutube.com dan juga http://saveyoutube.com wah niat bener ya buat web ini, cukup mudah ketika anda mendapati viedo contoh&nbsp;http://youtube.com/watch?v=Z2gUYEhtBKg maka tinggal menambah kick atau save saja didepanya url youtube.com anda sudah bisa mendownload, tapi sayang untuk ini kita harus install java dahulu, lalu apakah ada cara yang lebih cepat, ada tapi anda harus menggunakan mozilla untuk berselancar, bila sudah siap, tambahkan sebuah Add-ons, tambahkan extensions bernama <a href="https://flashgot.net" target="_blank">FlashGot</a>, anda bisa search atau silahkan klik <a title="Install FlasGot Now" href="https://addons.mozilla.org/en-US/firefox/downloads/latest/220/addon-220-latest.xpi?src=flashgot.ownsite">disini</a> untuk install di FireFox anda. setelah itu restart mozilla anda, dan mulai berselancar lagi mencari target, ketika anda membuka web yang memiliki media FlashGot akan berkedip kedip pada samping kiri icon url bar anda, itu bertanda ada media ditemukan, dan bisa anda simpan, contoh silahkan klik <a title="Praktekin" href="http://goez.my.id/blog/lagu/maddi-jane-secrets-onerepublic.html" target="_blank">ini</a>, dan lihat icon flashGot seperti galery berkedip²..<br>
 <span id="more-735"></span><br>
 <img class="alignleft" src="http://stats.eggoez.tk/files/download-video.jpg" alt="cara-mudah-cepat-dan-singkat-mendownload-video-di-youtube-dan-mp3-di-4shared-tanpa-harus-menunggu.jpg" width="272" height="220">nah ketika mucul klik kanan icon tersebut, bila icon belum muncul coba play dulu media nya, setelah muncul klik maka akan mucul dialog untuk menyimpan file nya, akan diminta disave dimana, pilih saja disk nya :D mudah kan, bila di klik kiri untuk menyimpan semua media tanpa memilih :kalau gak salah:</p>

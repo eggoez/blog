@@ -1,12 +1,16 @@
 ---
-layout: post
-date: 2011-06-03 17:18:35 +0700
 title: Jenis Ciuman
+date: 2011-06-03 10:18:35 Z
+categories:
+- asal
+tags:
+- kiss
+- love
+layout: post
 img: https://eggoez.bitbucket.io/wp-content/uploads/2011/06/ciuman-edward-150x150.jpg
 author: eggoez
-categories: asal
-tags: kiss love
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/ciuman-edward.jpg" class="fancybox image"><img class=" size-thumbnail wp-image-1604 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/ciuman-edward-150x150.jpg" alt="ciuman edward" width="150" height="150"></a>Jenis-jenis ciuman berikut ini adalah beberapa dari bentuk ciuman yang pernah dilakukan oleh orang-orang di seluruh dunia.Ciuman adalah hal yang natural dan wajar asalkan sesuai dengan norma kesopanan dan norma norma yang ada di negara kita.Bentuk dan jenis ciuman memang ada bermacam-macam sesuai dengan selera.Jika menginginkan sebuah perasaan &nbsp;suasana yang romantis,berilah dia ciuman mesra untuk menambah keromantisan,tak harus berlebihan,tapi ala kadarnya saja untuk menambah tingkat keharmonisan terlebih dalam hubungan rumah tangga yang biasanya justru malah kurang romantis jika dibandingkan pada saat masa pacaran.Berikut ini adalah beberapa jenis ciuman yang bisa anda simak satu-persatu.<span id="more-1579"></span></p>
 <h2>1. Butterfly Kiss</h2>
 <p>Mencium bagian tubuh si dia dengan mengedip-ngedipkan bulu mata hingga pasangan terasa geli. Ciuman ini bisa diberikan di pipi, ujung bibir, dahi atau perut.</p>

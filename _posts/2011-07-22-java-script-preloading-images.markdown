@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-22 17:18:35 +0700
 title: Java Script Preloading Images
-categories: asal
-tags: JavaScript
+date: 2011-07-22 10:18:35 Z
+categories:
+- asal
+tags:
+- JavaScript
+layout: post
 ---
+
 <p>Lots of high-res images can really spruce up a Web site. Butthey can also slow it down—images are files, files use bandwidth, and bandwidthis directly related to wait times. It’s time you get yourself an education onhow to speed things up with a little trick called image preloading.</p>
 <h1>Image preloading</h1>
 <p>The way a browser normally works, images are loaded onlyafter an HTTP request is sent for them, either passively via an &lt;img&gt; tagor actively through a method call. So if you have JavaScript that swaps an imageon mouseover, or changes an image automatically after a timeout, you can expectto wait anywhere from a few seconds to a few minutes while the image isretrieved from the server. This is especially noticeable if you have a slowconnection to the Internet, or if the images being retrieved are verylarge…and the delay usually ruins the effect you were hoping for.<br>

@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-27 17:18:35 +0700
 title: mIRC
-categories: 4-x-4
-tags: mIRC
+date: 2011-07-27 10:18:35 Z
+categories:
+- 4-x-4
+tags:
+- mIRC
+layout: post
 ---
+
 <p><img class="alignleft" src="https://www.mirc.co.uk/images/indexlogo.gif" alt="mIRC" width="136" height="140"> hmmmm.. apa itu mIRC? lho gambarnya bisa kedip².. hebat… :o<br>
 mIRC diciptakan tahun 1995 yang telah dibuat oleh Khaled Mardam-Bey. Internet Relay Chat atau chatting secara online yang jalan di atas sistem operasi Windows berguna untuk berbincang (chatting) antar sesama pengguna mIRC. Huruf ‘m’ dalam singkatan mIRC belum diketahui pasti, tetapi dalam FAQ dalam FORUM mIRC, pihak mIRC mengatakan ‘m’ adalah singkatan dari “Moo”. mIRC dapat dengan mudah dikonfigurasi, mempunyai banyak fitur seperti buddy lists (daftar teman), file transfers, multi server connection, suara, dsb.<span id="more-531"></span><br>
 Tjerk Vonck pada website mIRC http://www.mirc.co.uk/english.txt mengatakan bahwa IRC (Internet Relay Chat) adalah suatu tempat bertemu virtual (maya) dimana semua orang dari seluruh dunia dapat bertemu dan berbicara, well-type. Sebagai pengguna anda dapat menjalankan mIRC, suatu program kecil yang dapat berhubungan dengan sebuah server di dalam jaringan IRC. Semua server saling berhubungan dan menyampaikan pesan dari pengguna ke pengguna yang lain pada jaringan IRC. Anda dapat saja berpatisipasi dalam sebuah grup diskusi pada salah satu channel dari ribuan channel IRC yang ada, pada salah satu jaringan dari ratusan jaringan IRC yang ada atau hanya berbicara dengan keluarga atau dengan teman-teman secara pribadi (private) dimanapun mereka berada. Anda dapat menemukan banyak perbedaan dalam minat, ide-ide dan persoalan-persoalan dalam IRC.</p>

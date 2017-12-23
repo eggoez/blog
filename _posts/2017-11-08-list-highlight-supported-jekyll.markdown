@@ -1,10 +1,13 @@
 ---
+title: List of supported languages and lexers
+date: 2017-11-08 09:30:40 Z
+categories:
+- Jekyll
+tags:
+- Highlight
 layout: post
-title:  "List of supported languages and lexers"
-date: 2017-11-08 04:29:40 -0501
-categories: Jekyll
-tags: Highlight
 ---
+
 <p>Here the list of the supported languages and lexers. Feel free to write your own submitting a pull request ! Contributions are welcome.</p>
 <p>Note that the canonical, always-up-to-date list of lexers can be found by running <code>rougify list</code>.</p>
 <ul>

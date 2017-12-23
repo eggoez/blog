@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-01-24 17:18:35 +0700
 title: Titik terang penantian seorang Rina
-categories: cerita
-tags: Cerpen Kisah
+date: 2014-01-24 10:18:35 Z
+categories:
+- cerita
+tags:
+- Cerpen
+- Kisah
+layout: post
 ---
+
 <p>“ Eh, katanya Ergi udah jadian sama Ana lho ! “. Tidak sengaja Rina mendengar percakapan tiga orang teman sekelasnya di taman sekolah.<br>
 Dada Rina terasa sesak seketika. Dengan lunglai Rina berjalan menuju kelasnya.</p>
 <p>Ternyata kelas Rina tak kalah hebohnya ketika mendengar Ergi berpacaran dengan Ana. Hanya dua orang yang tak bergeming akan berita itu. Angga dan Rima, sahabat Rina.<br>

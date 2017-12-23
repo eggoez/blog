@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-01-21 17:18:35 +0700
 title: Konfigurasi proxy telkomsel yang baru
-categories: intermezzo
-tags: News
+date: 2014-01-21 10:18:35 Z
+categories:
+- intermezzo
+tags:
+- News
+layout: post
 ---
+
 <p>Mohon maaf, setting handset Anda masih menggunakan proxy 10.1.89.130. Mohon untuk menghapus setting proxy tersebut.</p>
 <p>Hubungi customer care Telkomsel untuk informasi lebih lanjut:</p>
 <p>Call 133 untuk KartuHALO Call 188 untuk SimPATI &amp; KartuAS</p>

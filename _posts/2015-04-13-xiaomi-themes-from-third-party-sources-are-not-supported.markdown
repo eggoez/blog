@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2015-04-13 17:18:35 +0700
 title: Xiaomi Themes from third party sources are not supported.
-categories: miui
-tags: MIUI Xiaomi
+date: 2015-04-13 10:18:35 Z
+categories:
+- miui
+tags:
+- MIUI
+- Xiaomi
+layout: post
 ---
+
 <p>Fix masalah seperti ini “Themes from third party sources are not supported. error download auth rejected 402” Kalau Indonya kek gini “<span id="result_box" class="" lang="id"><span class="hps">Tema</span> <span class="hps">dari sumber</span> <span class="hps">pihak ketiga</span> <span class="hps">tidak didukung</span>. <span class="hps">Kesalahan</span> <span class="hps">Download</span> <span class="hps">auth</span> <span class="hps">ditolak</span> <span class="hps">402″ Kenapa ya itu?</span></span><span id="more-1635"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/themes-from-third-party-sources-are-not-supported.png" class="fancybox image"><img class="aligncenter size-full wp-image-1644" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/themes-from-third-party-sources-are-not-supported.png" alt="themes from third party sources are not supported" width="640" height="480"></a></p>
 <p><span id="result_box" class="" lang="id"><span class="hps">Jawabanya adalah simple aja. Karena Kebijakan tema baru, yang mengharuskan Anda untuk memiliki tema pada server MIUI untuk memverifikasi tema itu, lihat undang undangnya <a href="http://en.miui.com//thread-11723-1-1.html">di sini</a>.</span></span></p>

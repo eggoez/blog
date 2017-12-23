@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-08-26 17:18:35 +0700
 title: Maddi Jane – Secrets
-categories: lagu
-tags: Lyrics
+date: 2011-08-26 10:18:35 Z
+categories:
+- lagu
+tags:
+- Lyrics
+layout: post
 ---
+
 <p style="text-align: center"><span id="more-697"></span><br>
 <em>Lyrics for Maddi Jane – Secrets (OneRepublic)</em><br>
 I need another story<br>

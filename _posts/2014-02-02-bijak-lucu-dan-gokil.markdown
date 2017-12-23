@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-02-02 17:18:35 +0700
 title: Bijak Lucu dan Gokil
-categories: tak-berkategori
-tags: Bijak Gokil
+date: 2014-02-02 10:18:35 Z
+categories:
+- tak-berkategori
+tags:
+- Bijak
+- Gokil
+layout: post
 ---
+
 <p>Test Post via email :D</p>
 <ol>
 <ol>

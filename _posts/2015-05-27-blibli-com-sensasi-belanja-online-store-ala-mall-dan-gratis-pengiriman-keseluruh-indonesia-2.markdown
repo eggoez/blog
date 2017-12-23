@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2015-05-27 17:18:35 +0700
 title: Belanja Gratis Pengiriman di blibli.com itu Asyik
-categories: online-shop
-tags: blibli.com Indonesia
+date: 2015-05-27 10:18:35 Z
+categories:
+- online-shop
+tags:
+- blibli.com
+- Indonesia
+layout: post
 ---
+
 <p>Hai, tulisan kali ini tak perlu ya saya <span style="text-decoration: underline;">basa basi</span> dan menceritakan kemajuan indonesia, langsung to <em>do poin aja</em>, jika anda mencari sebuah toko online yang terpercaya, simak tulisan saya, jika anda mencari toko online yang punya diskon gila gila an, simak terus tulisan saya, atau anda sedang mencari toko online yang memberikan gratis ongkos kirim ke seluruh wilayah Indonesia? apakah ada? Jawabanya ada, yaitu blibli.id</p>
 <p>Sebenarnya apa sih blibli itu? Saya ceritakan sedikit pengalaman saya dengan Toko online yang satu ini ya, awal Februari 2015 kemarin saya baru mengenal lebih dalam dunia <em>Ecommerce</em>, saya berniat membeli smartphone Xiaomi, saya berada di sampit kalimantan tengah, ada banyak sih di sini xiaomi yang saya ingin beli, namun anda pasti tahu, harganya bisa 2x lipat jika berada di kalimantan, apalagi produk yang ingin saya beli hanya dijual online, kalau toh ada offline pasti mahal, akhirnya saya memutuskan untuk membeli smartphone ini online, saya mencari cari website online yang menjual xiaomi, ada banyak sekali, akhirnya mulai saya filter atau saring website mana yang terpercaya dan aman, saat itu saya hanya mengenal kalimat ini:<span id="more-1797"></span></p>
 <blockquote><p>Jika website di awali dengan https:// sudah pasti terpercaya dan aman</p></blockquote>

@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-06-28 17:18:35 +0700
 title: Tips diet
-categories: tips
-tags: Kesehatan
+date: 2011-06-28 10:18:35 Z
+categories:
+- tips
+tags:
+- Kesehatan
+layout: post
 ---
+
 <p>Anda mempunyai dilemma diet yang masih belum diselesaikan? Ikuti 100 tip di bawah:</p>
 <p><strong>Apakah yang boleh dilakukan jika saya boleh menerima 1 perubahan diet sahaja?</strong></p>
 <p>1. Tambahkan hanya 1 sajian buah atau sayuran sehari. Sesuaikan dahulu penerimaan tubuh, kemudian tambahkan lagi sehingga mencapai 8 hingga 10 sajian sehari.</p>

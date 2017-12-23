@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2017-01-21 17:18:35 +0700
 title: Pebble Bangkrut & Ditutup, Pebblers Menerima Himbasnya
-categories: cerita
-tags: Pebble
+date: 2017-01-21 10:18:35 Z
+categories:
+- cerita
+tags:
+- Pebble
+layout: post
 img: https://blog.getpebble.com/wp-content/uploads/2016/12/00-Family-02-870x400.png
 author: eggoez
 ---
+
 <p><img class="" src="https://blog.getpebble.com/wp-content/uploads/2016/12/00-Family-02-870x400.png" alt="" width="870" height="400"></p>
 <p>&nbsp;</p>
 <h2>What you need to know</h2>

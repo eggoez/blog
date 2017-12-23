@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-03-23 17:18:35 +0700
 title: Download BBM-ID Mod v.2.7.23 (Transparent & Change Background)
-categories: android
-tags: BBM Apk Apps
+date: 2015-03-23 10:18:35 Z
+categories:
+- android
+tags:
+- BBM
+- Apk
+- Apps
+layout: post
 ---
+
 <p><span style="color: #ff0000;">Penting: Updatan BBM versi ini terbarunya bisa anda lihat <a style="color: #ff0000;" href="https://eggoez.bitbucket.io/blog/tag/bbm"><span style="color: #3366ff;">di sini</span>.</a></span></p>
 <p>Hi.. Di post kali ini saya ingin berbagi update <a href="https://eggoez.bitbucket.io/?p=1320">BBM Mod Transparent dan bisa di Ganti Gambar (Background)</a> yang kapan hari saya tulis. Pada kesempatan kali ini BBM nya tetap dari master “<a href="http://cyber4rd.biz" target="_blank">Cyber4rd</a>” namun versi bbm nya yang paling terbaru, dari kemarin yang versi 2.6.30 menjadi versi 2.7.0.23. Lalu apa saja sih yang baru dari BBM mod kali ini selain BBM yang di modding yang versi terbaru? Ada beberapa fitur yang terbaru di bbm ini, yaitu enter key yang sudah bareng sama action key with keyboard, so tinggal Send saja, ada fitur untuk show/hide sponsor, private mod, password protect untuk memberi password aplikasi BBM nya, dan juga Display Picture yang di High (Besar), Ganti warna text serta firut reload, buat refresh BBM nya. Ada beberapa Screen yang sempat saya tangkap pada HP saya. Ini penampakanya<span id="more-1550"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/03/bbm-new-mod-transparet-change-backgroud-v.2.7.0.23.jpg" class="fancybox image"><img class=" wp-image-1551 size-full aligncenter" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/03/bbm-new-mod-transparet-change-backgroud-v.2.7.0.23.jpg" alt="bbm-new-mod-transparet-change-backgroud-v.2.7.0.23" width="640" height="480"></a></p>

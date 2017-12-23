@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-06-10 17:18:35 +0700
 title: Cara Mudah Root Xiaomi Mi 4i Miui v.6.x
-categories: android
-tags: Mi4i Rooting Xiaomi
+date: 2015-06-10 10:18:35 Z
+categories:
+- android
+tags:
+- Mi4i
+- Rooting
+- Xiaomi
+layout: post
 ---
+
 <p>Hai, tulisan kali ini saya ingin berbagi bagaimana cara rooting xiaomi mi 4i, sangat mudah kok, langsung saja ya, di tutorial ini menggunakan aplikasi pihak ke 3 yaitu SuperSU pro dan menggunakan tool milik Magdag.</p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/06/supersu-pro-mi4i-root-tutorial.png" class="fancybox image"><img class="aligncenter size-full wp-image-1824" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/06/supersu-pro-mi4i-root-tutorial.png" alt="supersu pro mi4i root tutorial" width="681" height="363"></a>Ok kita mulai, Resiko di tanggung sendiri ya, jika yakin download dulu bahan yang anda butuhkan ya.<br>
 Adb driver Mi4i || <a href="http://androidxda.com/download-xiaomi-usb-drivers">Download di sini</a>.<br>

@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-05-01 17:18:35 +0700
 title: Membaca Al Qur'an yuk!
+date: 2011-05-01 10:18:35 Z
+categories:
+- news
+tags:
+- Apps
+layout: post
 img: 
 author: eggoez
-categories: news 
-tags: Apps
 ---
+
 <p>Assalamualaikum wr. wb. Hello temans semua… Alhamdulilah saat posting ini sudah 2 minggu web #ciut ngaji sudah selesai, hanya saja saya masih sibuk banget untuk memberi tahu sahabat-sahabat semuanya, dan dikesempatan yang sangat amatlah sempit ini saya ingin memberi tahu kalau web buat membaca Al Qur’an sekaligus untuk belajar membaca Al Qur’an sudah selesai, itupun juga dengan dukungan temans temins semua, kayak apa sih webnya? yuk mari kita intip di http://ngaji.sejenak,ga hemm kalau boleh sedikit jelasin di web itu kita bisa belajar membaca Al Qur’an secara Online, buat yang belum pandai membaca, dan untuk yang sudah mahir membaca Al Qur’an mungkin bisa menyimak Al Qur’an sambil Online, mungkin saja karena sibuk online buat cari $, jadi lupa membaca Al Qur’an, maksut hati ingin membaca tapi kena goda setan jadi ga sempat², buat yang baru belajar ayoo silahkan dikunjungi, ada terjemahan nya juga lo, dan ada juga text cara membaca, dan untuk yang mau tadarus juga bisa, silahkan pilih type 2, karena Qur’an nya flash, sedikit fitur untuk type Al Aur’an Online ciut yang nomor 1. dilengkapi dengan cara membaca, arti, tulisan text dan arab, dan juga ada listening atau suara play untuk setiap ayatnya, dan untuk nomor 2 ( flash ) dilengkapi dengan tajwid, iqra’ dll. jadi mari luangkan waktu sejenak kita buat membaca Al Qur’an.. oh iya untuk hukum membaca Al Qur’an serta keterangan yang lahi ada disana, silahkan menuju TKP untuk melihat langsung. atau bisa klik <a href="http://ngaji.sejenak.ga">disini</a>.. Oke sekian informasi dari saya, terimakasih banyak atas waktu luang anda buat membaca informasi diatas, saya ucapkan wasallamualaikum wr. wb.</p>

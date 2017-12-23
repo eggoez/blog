@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-08-18 17:18:35 +0700
 title: Tindakan Kecil Tak Bernama
-categories: writing
-tags: Islam
+date: 2011-08-18 10:18:35 Z
+categories:
+- writing
+tags:
+- Islam
+layout: post
 ---
+
 <p>Setelah berguling guling mengikuti link :O saya menemukan sebuah blog yang mungkin isinya sangat di cintai istri saya :s ga punya istri padahal, tidak aku hanya ingat isi konten nya, hmmmm kira kira berapa pahala ya yang sudah di catat oleh malaikat? (o) terkadang aku berfikir berapa banyak pahala <a title="Google Tokelau" href="http://google.tk" target="_blank">Google</a> yang sudah sekian lama dan banyak membantu umat manusia, tapi teman berkata “dan berapa banyak dosa google yang sudah membantu menemukan sesuatu yang mengandung dosa” <img src="https://eggoez.bitbucket.io/wp-content/emomo/33.gif" alt=""> hmmm memang benar, maybe itu juga banyak, tapi tidak ada yang tahu, biarlah itu urusan tuhan dengan Google, urusanya sekarang kapan saya tekan CTRL + V nya ini? sudah dari tadi di CRTL + C ini, <img src="https://eggoez.bitbucket.io/wp-content/emomo/34.gif" alt=""> dari blog orang juga :D yah ini saya copas dari blog orang, besok mau dibaca rencananya kalau ingat <img src="https://eggoez.bitbucket.io/wp-content/emomo/28.gif" alt=""><br>
 <strong>Tindakan Kecil Tak Bernama</strong></p>
 <p>Berikanlah apa yang ada padamu walaupun hanya sepotong roti atau sebiji kurma.<br>

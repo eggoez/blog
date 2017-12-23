@@ -1,12 +1,16 @@
 ---
-layout: post
-date: 2011-06-08 17:18:35 +0700
 title: Keistimewaan Perempuan dalam Ajaran Islam
+date: 2011-06-08 10:18:35 Z
+categories:
+- coretan
+tags:
+- islam
+- wanita
+layout: post
 img: https://eggoez.bitbucket.io/wp-content/uploads/2011/06/girl-eggoez.tk_.jpg
 author: eggoez
-categories: coretan
-tags: islam wanita
 ---
+
 <div id="attachment_196" style="width: 310px" class="wp-caption alignleft thumbnail"><a href="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/girl-eggoez.tk_.jpg" class="fancybox image"><img class="size-full wp-image-196" src="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/girl-eggoez.tk_.jpg" alt="Keistimewaan Perempuan dalam Ajaran Islam" width="300" height="239"></a><p class="wp-caption-text">Keistimewaan Perempuan dalam Ajaran Islam</p></div>
 <p>1. Wanita auratnya lebih susah dijaga (lebih banyak) dibanding lelaki.<br>
 2. Wanita perlu meminta izin dari suaminya apabila mau keluar rumah tetapi tidak sebaliknya.<br>

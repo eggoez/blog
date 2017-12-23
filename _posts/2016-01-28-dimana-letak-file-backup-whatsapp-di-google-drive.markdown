@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2016-01-28 17:18:35 +0700
 title: Dimana Letak file Backup WhatsApp di Google Drive?
-categories: android
-tags: WhatsApp Apps Google
+date: 2016-01-28 10:18:35 Z
+categories:
+- android
+tags:
+- WhatsApp
+- Apps
+- Google
+layout: post
 ---
+
 <p>Sudah lama ini WhatsApp meluncurkan data backup menggunakan google drive, untuk mengamankan semua chat history dan media dan memulihkan dengan gampang walau hape anda hilang/rusak, dan saya waktu itu sempat cobain, nah dulu setelah backup selesai saya masuk google drive saya tapi saya tidak mendapati file backup whatsapp layaknya yang biasanya ada di sdcard/internal android saya, tidak ada folder WhatsApps di drive saya? lalu saya sempat mencari2 dimana sih letak file backup saya di simpan? waktu itu belum ada jawaban dari google search, mungkin masih baru ya fiturnya :D saya hanya berkata “aman sih, sampai yang punya ga bisa temukan” :p akhirnya terabaikan, ehh kemarin saya pas ganti hape pas install whatsapp kok ditemukan cadangan di google drive saya, saya penasaran dan saya restore, dan saya kaget ternyata backupan yang itu, huaaahhh, di cari ga ada tapi kok bisa di restore? aneh kan, akhirnya pergi ke dukun google, dan menemukan artikel <a href="https://support.google.com/drive/answer/6303968?hl=en" target="_blank">bantuan</a>, di sana diberitahu bahwa whatsapp menyembunyikan data backupan kita, ternyata sangat mudah untuk menghapusnya.<span id="more-2011"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2016/01/cara-menghapus-file-backup-whatsapp-di-google-drive-1.png" rel="attachment wp-att-2013" class="fancybox image"><img class="wp-image-2013 size-thumbnail alignright" src="https://eggoez.bitbucket.io/wp-content/uploads/2016/01/cara-menghapus-file-backup-whatsapp-di-google-drive-1-150x150.png" alt="cara-menghapus-file-backup-whatsapp-di-google-drive-1" width="150" height="150"></a>Jika anda ingin menghapus file cadangan/backupan WhatsApp anda, Anda bisa langsung bisa buka drive.google.com dan masuk menggunakan akun google yang tertaut untuk backup whatsapp, lalu pergi ke Setelan klik ikon gear di ujung pojok kanan atas, nah setelah itu pilih “Setelan” nanti akan muncul window baru, lalu gulir ke tab “Kelola Aplikasi” Setelah itu Gulir ke bawah sendiri, ada Aplikasi WhatsApp Messenger, anda bisa klik Opsi dan hapus data aplikasi tersembunyi. Sesuai yang dikatakan WhatsApp di FAQ <a href="https://www.whatsapp.com/faq/en/android/28000019" target="_blank">page</a>, membutuhkan waktu beberapa menit (tergantuk ukuran file backupan) sampai anda melihat kapasitas KB/MB yang terlihat di bawah aplikasi WhatsApp menjadi kosong ;) alias 0 KB/MB.</p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2016/01/cara-menghapus-file-backup-whatsapp-di-google-drive-aplikasi.png" rel="attachment wp-att-2012" class="fancybox image"><img class="aligncenter wp-image-2012 size-full" src="https://eggoez.bitbucket.io/wp-content/uploads/2016/01/cara-menghapus-file-backup-whatsapp-di-google-drive-aplikasi.png" alt="cara-menghapus-file-backup-whatsapp-di-google-drive-aplikasi" width="777" height="421"></a>Nah jadi begitu cara menghapus backupan whatsapp di Google Drive nya <img src="https://eggoez.bitbucket.io/wp-content/emojione/png/1f643.png" alt=":)" class="emojione" style="font-size:inherit;height:3ex;width:3.1ex;min-height:20px;min-width:20px;display:inline-block;margin:-.2ex .15em .2ex;line-height:normal;vertical-align:middle"> semoga membantu :D</p>

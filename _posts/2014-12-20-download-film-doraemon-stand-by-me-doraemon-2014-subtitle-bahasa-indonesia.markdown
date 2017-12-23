@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-12-20 17:18:35 +0700
 title: Film Stand by Me Doraemon (2014)
-categories: movies
-tags: Doraemon
+date: 2014-12-20 10:18:35 Z
+categories:
+- movies
+tags:
+- Doraemon
+layout: post
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2014/12/stand-by-me-doraemon.jpg" class="fancybox image"><img class="  wp-image-1271 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2014/12/stand-by-me-doraemon-212x300.jpg" alt="stand-by-me-doraemon" width="178" height="250"></a><strong>Stand By Me Doraemon</strong> yang menjadi film CG 3D pertama Doraemon, memiliki nuansa yang jauh lebih mengharukan ketimbang serial televisi maupun film-film animasi Doraemon sebelumnya .Akan tetapi, film animasi 2D terbaru Doraemon ternyata masih tayang tahun depan. Sehingga, film ini bisa dikatakan hanya sebagai “kisah terakhir dari pertemuan antara Doraemon dan Nobita demi sebuah masa depan yang bahagia”. Menurut ulasan dari Eiga.com, film ini menyuguhkan berbagai adegan yang diambil dari episode-episode serial televisi anime Doraemon.</p>
 <p>Hasil arahan sutradara Takashi Yamazaki dan Ryuichi Yagi ini, dibilang memiliki keindahan luar biasa dalam memamaparkan tampilan grafis komputer. Salah satu keindahan yang disajikan secara apik di film ini adalah adegan Doraemon, Nobita, Shizuka, Gian, dan Suneo sedang berada di atas langit serta ketika mereka menggunakan Baling-baling Bambu (Take-copter) untuk bepergian.<br>
 <span id="more-1270"></span><br>

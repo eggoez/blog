@@ -1,12 +1,14 @@
 ---
-layout: post
-date: 2011-06-20 17:18:35 +0700
 title: Lelaki & Perempuan harus tahu
+date: 2011-06-20 10:18:35 Z
+tags:
+- Love
+- Sexs
+layout: post
 img: 
 author: eggoez
-categories: 
-tags: Love Sexs
 ---
+
 <ol>
 <li>Sensitif : Bukan bermaksud suka merajuk, tapi hanya ingin bermanja dan mendapatkan perhatian.</li>
 <li>Cerewet : Bukan bermaksud FUSSY tak tentu hala, kadang ingin LELAKI mengikut kata-katanya sekali sekala.</li>

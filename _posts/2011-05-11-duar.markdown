@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2011-05-11 17:18:35 +0700
 title: cd ciutirc.blogspot.com ls -all
+date: 2011-05-11 10:18:35 Z
+categories:
+- news
+tags:
+- index
+layout: post
 img: 
 author: eggoez
-categories: news
-tags: index
 ---
+
 <p>Below is the title of posting articles on our blog, recent articles will be marked with <strong><span style="color: #ff0000">+</span></strong><br>
 Goto view ciut blog with style: <a href="http://ciutirc.blogspot.com/view/flipcard">FlipCard</a>, <a href="http://ciutirc.blogspot.com/view/mosaic">Mosaic</a>, <a href="http://ciutirc.blogspot.com/view/sidebar">Sidebar</a>, <a href="http://ciutirc.blogspot.com/view/snapshot">Snapshot</a>, <a href="http://ciutirc.blogspot.com/view/timeslide">TimeSlide</a> and if you need an a translator you can go <a href="http://myciut.blogspot.com/blog">here</a>.<br>
 Index Of All Entri..</p>

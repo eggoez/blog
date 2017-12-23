@@ -1,10 +1,16 @@
 ---
-layout: post
-date: 2014-10-28 17:18:35 +0700
 title: Cara Kerja App Zip/Unzip Compress File
-categories: bagaimana
-tags: 7Zip zip file prog
+date: 2014-10-28 10:18:35 Z
+categories:
+- bagaimana
+tags:
+- 7Zip
+- zip
+- file
+- prog
+layout: post
 ---
+
 <p>2014 pastinya sudah pada tahu ya, atau mungkin kita semua sering menggunakan nya untuk kompress file kita untuk di upload agar ukuran file lebih kecil, atau hanya sekedar menjadikan satu dari sekian banyak file agar mudah di bawa :D *emang tas* baik, apa sebenarnya zip/unzip? dulu saya pernah berfikir dan mengibaratkan aplikasi seperti WinZIP, WinRAR, 7ZIP dll yang berguna untuk menyatukan banyak file menjadi satu file yang berextensi 7zip/zip/tar/gz/bz2/bzip dsb ini adalah sebuah kotak atau keranjang, dan file file yang akan kita kompress itu adalah benda, logikanya, ketika kita kopress file file yang banyak menjadi satu sama dengan memasukkan benda benda itu kedalam keranjang/kotak menjadi satu dan membungkusnya, tapi saat ini saya berfikir kembali, jika memang seperti itu lalu kenapa file yang kita kompress itu bisa menjadi kecil dan membesar ukuranya? mulai ini saya berfikir <span id="more-1248"></span>kembali kalau teryata pemikiran saya itu salah besar, kerena jika benar, seharusnya bobot/ukuran kotak/keranjang itu akan lebih besar atau sama dengan total benda yang ada didalamnya, ini yang membuat saya mencari sebetulnya bagaimana sih cara kerja aplikasi kompress/dekompress file ini, dan allhamdulillah saya menemukan hasil dari berguling guling dengan link sejak tadi, dan tiada salahnya saya mencatat di sini ;)<br>
 Tulisan ini saya kupas dari <a href="http://www.diskusiwebhosting.com" target="_blank">diskusiwebhosting.com</a> yang ditulis oleh gan a<a href="http://www.diskusiwebhosting.com/members/adamelectric.5512/" target="_blank">damelectric</a></p>
 <hr>

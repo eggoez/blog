@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-08-26 17:18:35 +0700
 title: Dear Mr. President
-categories: lagu
-tags: Lyrics
+date: 2014-08-26 10:18:35 Z
+categories:
+- lagu
+tags:
+- Lyrics
+layout: post
 ---
+
 <p style="text-align: center;"><iframe src="//www.youtube.com/embed/1f8S5u01E0Y" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
 <p><span id="more-1197"></span></p>
 <p style="text-align: center;">Dear Mr. President,<br>

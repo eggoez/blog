@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-04-12 17:18:35 +0700
 title: Cinta vs Cemburu
-categories: cinta
-tags: Love
+date: 2014-04-12 10:18:35 Z
+categories:
+- cinta
+tags:
+- Love
+layout: post
 ---
+
 <p>CINTA. Satu kata yang tidak pernah lapuk untuk dibahas. Cukup satu kata tapi mampu membuat jutaan manusia tersenyum sendiri ataupun menangis tersedu-sedu bahkan sampai putus asa dan membunuh dirinya sendiri. Subhanallah.</p>
 <p>Ada apa sebenarnya dengan CINTA ? Mengapa efeknya begitu dahsyat ? Jika semua manusia menyadari bahwa adanya rasa, apapun namanya, adalah bersumber dari Yang Maha Kuasa, mungkin efek cinta yang merusak tidak akan pernah ada. Bahkan sebaliknya rasa cinta yang muncul akan membawa kebaikan. Bukankah rasa cinta selalu identik dengan kasih sayang ? Lalu, bagaimana efek cinta yang merusak bisa muncul ? Tanyalah pada sang hati.</p>
 <p><span id="more-1174"></span>CEMBURU. Satu kata yang juga tidak pernah ada habisnya untuk dibicarakan. Bahkan definisinya sendiri kadang sering dikaburkan dengan alasan menjaga harga diri, karena setiap manusia yang cemburu selalu berdalih bahwa cemburu itu tanda cinta, benarkah ? Apakah bukan rasa iri dan dengki yang mendominasi ? Sekali lagi, tanyalah pada sang hati.</p>

@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2015-03-05 17:18:35 +0700
 title: Cara Menghilangkan Ads/Script pada hosting gratis
-categories: tips
-tags: Hosting code
+date: 2015-03-05 10:18:35 Z
+categories:
+- tips
+tags:
+- Hosting
+- code
+layout: post
 ---
+
 <p>Hosting gratisan adalah hosting tidak berbayar yang <strong>kebanyakan</strong> dipilih oleh orang indonesia :D<br>
 Walau sebenarnya hosting gratis itu tidak se <strong>AMAN</strong> hosting berbayar, namun saya pribadi sangat kagum dengan hosting gratis, pasalnya mereka ada yang jauh lebih baik dari segi <strong>uptime</strong> dan <strong>fitur</strong>nya melebihi hosting berbayar, biasanya saya sebut <del>Hosting Gratis Rasa-h Bayar</del> ;) baik, karena banyak hosting gratis yang bermunculan maka anda harus pintar² memilih dan memilah hosting gratisnya, kebanyakan menurut pengalaman saya hosting gratis yang bagus dan berkualitas baik itu tidak luput dengan adanya iklan, ada juga hosting yang menyematkan ads/iklan/script pada halaman web anda, seperti sebut saja 000webhost, dsb.<span id="more-1498"></span></p>
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/03/script-ads-free-hosting.png" class="fancybox image"><img class="alignleft wp-image-1510 " src="https://eggoez.bitbucket.io/wp-content/uploads/2015/03/script-ads-free-hosting.png" alt="Scripts/Ads Free Hosting" width="349" height="116"></a> namun jika anda ingin belajar membangun sebuah web tidak ada salahnya sebelum anda membeli hosting/vps anda jajal dulu hosting gratis yang saya rekomendasikan. bisa anda <a href="https://eggoez.bitbucket.io/flatpress/?x=entry:entry140311-041133;comments:1">baca di sini</a>. Baiklah kembali ke judul ya</p>

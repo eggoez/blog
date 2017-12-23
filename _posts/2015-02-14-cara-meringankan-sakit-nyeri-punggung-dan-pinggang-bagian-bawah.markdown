@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2015-02-14 17:18:35 +0700
 title: Meringankan Sakit Punggung & Pinggang Bawah
-categories: tips
-tags: kesehatan
+date: 2015-02-14 10:18:35 Z
+categories:
+- tips
+tags:
+- kesehatan
+layout: post
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/02/sakit-punggung.jpg" class="fancybox image"><img class=" size-full wp-image-1399 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/02/sakit-punggung.jpg" alt="Senam, Obat Alami Untuk Sakit Punggung" width="425" height="225"></a>90% orang akan merasakan nyeri punggung dalam hidupnya. Ini adalah hukum penuaan alias degeneratif. Kita tidak bisa menghindari sakit punggung ini, yang bisa kita lakukan hanyalah menghambat prosesnya. Bagaimana caranya ? Mahal nggak biayanya ? Susah nggak ? Jawabanya adalah gampang, gratis, alami, tanpa efek samping dan bisa dilakukan di mana saja, kapan saja kita mau. Caranya dengan cara senam punggung ringan dan teratur. Ingat, <strong>TERATUR</strong>! Teratur adalah sehari sekali atau seminggu sekali, atau sebulan sekali. Nek niat sehari tiga kali terus nek gak niat setahun tiga kali itu namanya tidak teratur ! Masalahnya, kita ini memang makhluk yang aneh… nek mbayar mahal yakin sekali kalo itu cara paling baik untuk penyembuhan, nek gratisan malah gak yakin akan khasiatnya. Padahal, tidak selamanya obat mahal itu lebih manjur daripada obat murah. Gak percaya ? Coba deh lakukan senam punggung ini secara rutin dan dengan gerakan yang benar !</p>
 <h3>MENGENAL TULANG PUNGGUNG KITA</h3>
 <p><span id="more-1397"></span></p>

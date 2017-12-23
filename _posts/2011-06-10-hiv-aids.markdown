@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2011-06-10 17:18:35 +0700
 title: HIV Aids
+date: 2011-06-10 10:18:35 Z
+categories:
+- penyakit
+tags:
+- Virus
+layout: post
 img: https://eggoez.bitbucket.io/wp-content/uploads/2011/06/virus-hiv-aids-150x150.jpg
 author: eggoez
-categories: penyakit
-tags: Virus
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/virus-hiv-aids.jpg" class="fancybox image"><img class=" size-thumbnail wp-image-1607 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/virus-hiv-aids-150x150.jpg" alt="virus hiv aids" width="150" height="150"></a>AIDS atau Acquired Immune Deficiency Syndrome adalah sindrom dari “invasi” penyakit kerusakan sistem kekebalan tubuh. AIDS disebabkan oleh Human Immunodeficiency Virus (HIV).</p>
 <p>HIV-AIDS merupakan kelanjutan dari tingkat yang lebih parah dan berbahaya. Kelemahan sistem kekebalan tubuh pada pasien AIDS membuatnya rentan terhadap infeksi oportunistik.<br>
 <span id="more-266"></span><br>

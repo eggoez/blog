@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2014-02-09 17:18:35 +0700
 title: Mata untuk kasih
-categories: cerita
-tags: Cerpen Cinta
+date: 2014-02-09 10:18:35 Z
+categories:
+- cerita
+tags:
+- Cerpen
+- Cinta
+layout: post
 ---
+
 <div>Gelap. Itu adalah teman, hariku dan hidupku. Dalam kegelapan aku dapat melihat. Aku bebas memikirkan apapun. Kegembiaraan ku, kesedihan ku bahkan hal – hal yang tak terpikirkan oleh orang lain. Gelap adalah sahabat terbaik ku.</div>
 <div>Usiaku hampir tujuh belas. Sejak terlahir ke dunia aku sudah hidup dalam kegelapan. Kekejaman ibu yang membuat aku menjadi seperti ini. Semasa kehamilan ibu berusaha untuk membunuh ku dengan berbagai cara yang kejam, bahkan aborsi. Hal ini membuat aku terlahir cacat, sampai aku kehilangan penglihatan ku. Meski menyakitkan, aku bersyukur karna Tuhan masih mengasihiku. Aku di izinkan untuk tetap bisa hidup.</div>
 <div>Pada saat usiaku lima tahun, ibu pergi meninggalkan aku di depan panti asuhan “BUNDA”.</div>

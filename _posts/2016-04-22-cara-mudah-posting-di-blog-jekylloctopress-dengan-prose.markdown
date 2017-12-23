@@ -1,8 +1,9 @@
 ---
-layout: post
-date: 2016-04-22 17:18:35 +0700
 title: Cara Mudah Posting di Blog Jekyll/Octopress dengan Prose
-categories: news
+date: 2016-04-22 10:18:35 Z
+categories:
+- news
+layout: post
 ---
 
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/cara-mudah-buat-dan-menulis-blog-dengan-ruby-jekyll-octopress.png" rel="attachment wp-att-2188" class="fancybox image"><img class="aligncenter size-full wp-image-2188" src="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/cara-mudah-buat-dan-menulis-blog-dengan-ruby-jekyll-octopress.png" alt="cara-mudah-buat-dan-menulis-blog-dengan-ruby-jekyll-octopress" srcset="https://eggoez.bitbucket.io/wp-content/uploads/2016/04/cara-mudah-buat-dan-menulis-blog-dengan-ruby-jekyll-octopress-300x135.png 300w, https://eggoez.bitbucket.io/wp-content/uploads/2016/04/cara-mudah-buat-dan-menulis-blog-dengan-ruby-jekyll-octopress.png 640w" sizes="(max-width: 640px) 100vw, 640px" width="640" height="289"></a></p>

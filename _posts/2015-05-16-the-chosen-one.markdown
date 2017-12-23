@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2015-05-16 17:18:35 +0700
 title: The Chosen One
-categories: sejarah
-tags: event
+date: 2015-05-16 10:18:35 Z
+categories:
+- sejarah
+tags:
+- event
+layout: post
 ---
+
 <p style="text-align: center;"><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/05/the-choose-one.jpg"><img class="aligncenter wp-image-1699 " src="https://eggoez.bitbucket.io/wp-content/uploads/2015/05/the-choose-one.jpg" alt="the choose one" width="696" height="357" /></a></p>
 <p><center>In a time of darkness and greed<br />
 It is your light that we need<br />

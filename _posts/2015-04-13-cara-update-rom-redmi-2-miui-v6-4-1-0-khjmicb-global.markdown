@@ -1,10 +1,14 @@
 ---
-layout: post
-date: 2015-04-13 17:19:35 +0700
 title: Update Rom Redmi 2 MIUI V6.4.1.0 KHJMICB Global
-categories: miui
-tags: Xiaomi Redmi2
+date: 2015-04-13 10:19:35 Z
+categories:
+- miui
+tags:
+- Xiaomi
+- Redmi2
+layout: post
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/Redmi-2-MIUI-V6.4.1.0-KHJMICB.jpg" class="fancybox image"><img class=" size-full wp-image-1626 aligncenter" src="https://eggoez.bitbucket.io/wp-content/uploads/2015/04/Redmi-2-MIUI-V6.4.1.0-KHJMICB.jpg" alt="Redmi 2 MIUI V6.4.1.0 KHJMICB" width="640" height="480"></a>Buat Redmi 2, update ini adalah versi global OTA, namun pertanyaan yang muncul di beberapa thread forum miui fans kenapa versi ini tidak tersedia di halaman <a href="http://en.miui.com/download-261.html#371">download</a>? dan jika kita cek pada update via ponsel kita <em>(V.6.3.3 Global)</em> juga tidak ada pembaruan, padahal link downloadnya pun dari web resminya, saya juga kurang tau, tapi kabarnya ini di dapat dari miui fans HK (Hongkong), darimanapun namun saya berhasil update rom Redmi 2 saya ke v.6.4.1.0 Global ini, baik setelah saya selidiki apa saja yang baru? Changelog nya seperti ini, saya kutip dari blog orang nih, tapi udah saya bandingin emang bener di sisi ini perubahanya: ;O&nbsp;<span id="more-1622"></span></p>
 <p><strong>ChangeLog</strong></p>
 <blockquote><p>[System]<br>

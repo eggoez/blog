@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2011-07-20 17:18:35 +0700
 title: Just Why?
-categories: coretan
-tags: Entah
+date: 2011-07-20 10:18:35 Z
+categories:
+- coretan
+tags:
+- Entah
+layout: post
 ---
+
 <p>apakah anda punya tuhan?<br>
 apakah anda selalu ingat kepada tuhan anda?<br>
 atau sampai detik ini anda tidak pernah mengingat tuhan anda?<br>

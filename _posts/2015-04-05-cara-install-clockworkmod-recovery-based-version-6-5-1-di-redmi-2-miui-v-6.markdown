@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-04-05 17:18:35 +0700
 title: Cara Install CWM Recovery di Redmi 2 Miui v.6
-categories: android
-tags: cwm Redmi2 Xiaomi
+date: 2015-04-05 10:18:35 Z
+categories:
+- android
+tags:
+- cwm
+- Redmi2
+- Xiaomi
+layout: post
 ---
+
 <p>Tulisan kali ini adalah Bagaimana cara install ClockWorkMod versi 6.5.1 di Redmi, saya test menggunakan Redmi 2 bekerja baik, yang lainya belum test tapi bisa mengikuti. Sebetulnya tidak install sih lebih tepatnya mengganti CWM bawaan Redmi, Baik sangat mudah sekali, karena ini bisa anda lakukan dimana saja, karena ini tanpa PC/Laptop/Desktop anda pun bisa melakukanya, hehe karena ini sifatnya mengganti versi Stock yang kadang buat update failed :P berarti anda harus menyiapkan file penggantinya, hehe, pada dasarnya hanya menganti file “recovery.img” dengan Clockworkmod yang umum. Baik kita mulai.</p>
 <p><span id="more-1588"></span>Pertama pastikan Xiaomi anda sudah di root, jika belum baca tutorialnya di <a href="https://goez.ml/1NRE6Hj">post sebelumnya</a> ya.<br>
 Kedua download dulu file pengganti recovery 9.4mb nya <a href="http://ge.tt/api/1/files/53wGbnD2/0/blob?download" target="_blank">di sini</a>. || <a href="http://d-h.st/IemT" target="_blank">mirror</a>.<br>

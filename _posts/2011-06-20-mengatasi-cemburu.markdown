@@ -1,12 +1,16 @@
 ---
-layout: post
-date: 2011-06-20 17:18:35 +0700
 title: Mengatasi Cemburu
+date: 2011-06-20 10:18:35 Z
+categories:
+- cinta
+tags:
+- Love
+- Tips
+layout: post
 img: https://eggoez.bitbucket.io/wp-content/uploads/2011/06/cemburu-150x150.jpg
 author: eggoez
-categories: cinta
-tags: Love Tips
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/cemburu.jpg" class="fancybox image"><img class=" size-thumbnail wp-image-1616 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2011/06/cemburu-150x150.jpg" alt="cemburu" width="150" height="150"></a>Banyak yang mengatakan cemburu itu adalah sebuah bentuk rasa cinta seseorang.<br>
 Sifat cemburu ini adalah naluri manusia yang memang amat sulit untuk dibendung. Banyak Orang beranggapan bahawa Seorang wanita lebih besar mempunyai rasa cemburu. Sebanarnya tidak Cemburu bisa dirasakan oleh laki-laki maupun wanita, sifat cemburu ada pada diri manusia. Cemburu sih boleh asal jangan cemburu buta, dan tanpa alasan yang jelas.<br>
 Cemburu banyak macamnya, mungkin kita tidak menyadari bahwa kita sedang cemburu. Untuk itu lihat tanda-tanda berikut, apakah anda termasuk orang yang sedang cemburu..?<span id="more-321"></span></p>

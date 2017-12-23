@@ -1,10 +1,15 @@
 ---
-layout: post
-date: 2015-04-22 17:18:35 +0700
 title: Cara Aktifkan Root Permission Redmi 2 MIUI V6.4.4.0 Global
-categories: android
-tags: Xiaomi MIUI Redmi2
+date: 2015-04-22 10:18:35 Z
+categories:
+- android
+tags:
+- Xiaomi
+- MIUI
+- Redmi2
+layout: post
 ---
+
 <p>Bagaimana cara aktifkan akses Root Pada menu Keamanan di Redmi 2 MIUI V6.4.4.0, ini seperti Rom Developer, jadi tanpa supersu atau pihak ke 3, langsung Redmi kita akan teroot seperti lahir, alami lah :D<br>
 Saya praktekkan pada Redmi 2 <a href="https://eggoez.bitbucket.io/blog/miui/update-rom-redmi-2-miui-v6-4-4-0-khjmicb-global.html">MIUI V6.4.4.0</a>. Berhasil dan bekerja baik, untuk versi yang di bawahnya belum test. ini dia SS nya.</p>
 <p><span id="more-1663"></span></p>

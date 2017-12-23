@@ -1,10 +1,13 @@
 ---
-layout: post
-date: 2014-01-24 17:18:35 +0700
 title: Persahabatan
-categories: intermezzo
-tags: Bijak
+date: 2014-01-24 10:18:35 Z
+categories:
+- intermezzo
+tags:
+- Bijak
+layout: post
 ---
+
 <p>“Apa yang kita alami demi teman kadang-kadang melelahkan dan menjengkelkan, tetapi itulah yang membuat persahabatan mempunyai nilai yang indah”</p>
 <p>“Persahabatan sering menyuguhkan beberapa cobaan, tetapi persahabatan sejati bisa mengatasi cobaan itu bahkan bertumbuh bersama”</p>
 <p>“Persahabatan tidak terjalin secara otomatis tetapi membutuhkan proses yang panjang seperti besi menajamkan besi, demikianlah sahabat menajamkan sahabatnya”<br>

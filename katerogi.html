@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Kategori
-permalink: /kategori/
+permalink: "/kategori/"
+layout: default
 ---
+
 {% capture tags %}{% for tag in site.tags %}{{ tag[0]}}#{% endfor %}{% endcapture %}
 
 {% assign sorted = tags | split: '#' | sort %}

@@ -1,9 +1,11 @@
 ---
+title: Bentuk Payudara itu Cerminkan Kepribadian Seorang Wanita
+date: 2009-03-06 10:18:35 Z
+categories:
+- cinta
 layout: post
-date: 2009-03-06 17:18:35 +0700
-title: "Bentuk Payudara itu Cerminkan Kepribadian Seorang Wanita"
-categories: cinta
 ---
+
 <p><a href="https://eggoez.bitbucket.io/wp-content/uploads/2009/03/payudara.png" class="fancybox image"><img class=" size-thumbnail wp-image-1487 alignleft" src="https://eggoez.bitbucket.io/wp-content/uploads/2009/03/payudara-150x150.png" alt="Bentuk Payudara" width="150" height="150"></a>Payudara adalah salah satu harta terbesar yang dimiliki oleh seorang wanita karena itu sedapat mungkin seorang wanita merawat dan melindunginya. Namun berdasarkan sebuah Survey, sifat, tipe dan kepribadian seorang wanita dapat dilihat berdasarkan bentuk Payudara yang dimilikinya. Ini bukan ramalan namun hanyalah sebuah Studi kasus berdasarkan bentuk payudara yang dimilikinya. Setidaknya ada 10 Bentuk payudara yang mewakili sifat wanita pada umumnya. Berikut 10 tipe wanita dilihat berdasarkan bentuk payudara-nya.<br>
 <br>
 <strong>1. PAYUDARA BESAR :</strong><br>
