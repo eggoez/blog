@@ -15,7 +15,7 @@ description: 'Everything will be changed!
 
 '
 baseurl: "/blog"
-url: https://goez.my.id
+url: https://eggoez.github.io
 permalink: "/:categories/:title.html"
 twitter_username: eggoez
 github_username: eggoez
